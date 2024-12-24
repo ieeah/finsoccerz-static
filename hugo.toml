@@ -1,0 +1,53 @@
+baseURL = '/'
+languageCode = 'it-it'
+title = 'Finsoccerz'
+theme = 're-terminal'
+defaultContentLanguage = "it"
+
+[params]
+  contentTypeName = "posts"
+  themeColor = "green"
+  showMenuItems = 2
+  showLanguageSelector = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[languages]
+  [languages.it.params]
+    languageName = "Italiano"
+    title = "Finsoccerz"
+    subtitle = "Un sottotitolo in italiano"
+    owner = ""
+    keywords = ""
+    copyright = ""
+    menuMore = "Di ppiù"
+    readMore = "Leggi di piu"
+    readOtherPosts = "Leggi altri post"
+    newerPosts = "Post più recenti"
+    olderPosts = "Post più vecchi"
+    missingContentMessage = "Pagina non trovata..."
+    missingBackButtonLabel = "Torna alla pagina iniziale"
+    minuteReadingTime = "minuti"
+    words = "parole"
+    
+    [languages.it.params.logo]
+      logoText = "Home"
+      logoHomeLink = "/"
+
+    [languages.it.menu]
+      [[languages.it.menu.main]]
+        identifier = "players"
+        name = "Giocatori"
+        url = "/players"
+      [[languages.it.menu.main]]
+        identifier = "matches"
+        name = "Partite"
+        url = "/matches"
+      [[languages.it.menu.main]]
+        identifier = "dec_24"
+        name = "Dicembre 2024"
+        url = "/months/dec_24"
+        parent = "matches"

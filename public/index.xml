@@ -1,0 +1,1362 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Finsoccerz</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Finsoccerz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it</language>
+    <lastBuildDate>Mon, 23 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azzalin</title>
+      <link>//localhost:1313/players/it/azzalin/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/players/it/azzalin/</guid>
+      <description>&lt;div class=&#34;player-header&#34; style=&#34;display: flex;&#34;&gt;
+  &lt;div class=&#34;player-avatar&#34; style=&#34;margin-inline-end: 40px;&#34;&gt;
+    &lt;img src=&#34;https://robohash.org/azzalin&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;border-radius: 50%; aspect-ratio: 1; border: 15px solid #78E2A0&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;player-info&#34;&gt;
+    &lt;p class=&#34;player-name&#34; style=&#34;margin-block: 0; font-size: 2.5rem; font-weight: bold; display: inline-block;&#34; id=&#34;player-name&#34;&gt;Nicola,&lt;/p&gt;
+    &lt;code style=&#34;display: inline-block;&#34;&gt;È un leggero stiramento&lt;/code&gt;
+    &lt;p class=&#34;player-age&#34; style=&#34;margin-block: 0;&#34;&gt;--/--/----&lt;/p&gt;
+    &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;Ufficio 1, Piano 2&lt;/p&gt;
+    &lt;div class=&#34;player-specials&#34; style=&#34;margin-block: 1.75rem 0;&#34;&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Punto forte:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;---&lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Piatto preferito:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;---&lt;/span&gt;
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;statistiche&#34;&gt;Statistiche&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Stat&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Punteggio&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Pausa caffé&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Squadra preferita&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Passaggio filtrante&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Aperitivo&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;9.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Pausa pranzo&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;La schiscietta&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Voti, statistiche e altro, non hanno la pretesa di rappresentare davvero la persona e/o la sua capacità.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+      <content>&lt;div class=&#34;player-header&#34; style=&#34;display: flex;&#34;&gt;
+  &lt;div class=&#34;player-avatar&#34; style=&#34;margin-inline-end: 40px;&#34;&gt;
+    &lt;img src=&#34;https://robohash.org/azzalin&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;border-radius: 50%; aspect-ratio: 1; border: 15px solid #78E2A0&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;player-info&#34;&gt;
+    &lt;p class=&#34;player-name&#34; style=&#34;margin-block: 0; font-size: 2.5rem; font-weight: bold; display: inline-block;&#34; id=&#34;player-name&#34;&gt;Nicola,&lt;/p&gt;
+    &lt;code style=&#34;display: inline-block;&#34;&gt;È un leggero stiramento&lt;/code&gt;
+    &lt;p class=&#34;player-age&#34; style=&#34;margin-block: 0;&#34;&gt;--/--/----&lt;/p&gt;
+    &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;Ufficio 1, Piano 2&lt;/p&gt;
+    &lt;div class=&#34;player-specials&#34; style=&#34;margin-block: 1.75rem 0;&#34;&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Punto forte:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;---&lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Piatto preferito:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;---&lt;/span&gt;
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;statistiche&#34;&gt;Statistiche&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Stat&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Punteggio&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Pausa caffé&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Squadra preferita&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Passaggio filtrante&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Aperitivo&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;9.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Pausa pranzo&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;La schiscietta&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Voti, statistiche e altro, non hanno la pretesa di rappresentare davvero la persona e/o la sua capacità.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Borelli</title>
+      <link>//localhost:1313/players/it/borelli/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/players/it/borelli/</guid>
+      <description>&lt;div class=&#34;player-header&#34; style=&#34;display: flex;&#34;&gt;
+  &lt;div class=&#34;player-avatar&#34; style=&#34;margin-inline-end: 40px;&#34;&gt;
+    &lt;img src=&#34;https://robohash.org/borelli&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent)&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;player-info&#34;&gt;
+    &lt;p class=&#34;player-name&#34; style=&#34;margin-block: 0; font-size: 2.5rem; font-weight: bold; display: inline-block;&#34; id=&#34;player-name&#34;&gt;Leo Borelli Jr,&lt;/p&gt;
+    &lt;code style=&#34;display: inline-block;&#34;&gt;Un giorno avrò un nome tutto mio&lt;/code&gt;
+    &lt;p class=&#34;player-age&#34; style=&#34;margin-block: 0;&#34;&gt;--/--/----&lt;/p&gt;
+    &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;---, ----&lt;/p&gt;
+    &lt;div class=&#34;player-specials&#34; style=&#34;margin-block: 1.75rem 0;&#34;&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Punto forte:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;Il tiro della tigre&lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Piatto preferito:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;----&lt;/span&gt;
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;statistiche&#34;&gt;Statistiche&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Statistica&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Punteggio&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Ore di tirocinio&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Ollama&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Passaggi filtranti&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Pause caffé&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Ore aspettando la compilazione&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2.5&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Voti, statistiche e altro, non hanno la pretesa di rappresentare davvero la persona e/o la sua capacità.&lt;/p&gt;</description>
+      <content>&lt;div class=&#34;player-header&#34; style=&#34;display: flex;&#34;&gt;
+  &lt;div class=&#34;player-avatar&#34; style=&#34;margin-inline-end: 40px;&#34;&gt;
+    &lt;img src=&#34;https://robohash.org/borelli&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent)&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;player-info&#34;&gt;
+    &lt;p class=&#34;player-name&#34; style=&#34;margin-block: 0; font-size: 2.5rem; font-weight: bold; display: inline-block;&#34; id=&#34;player-name&#34;&gt;Leo Borelli Jr,&lt;/p&gt;
+    &lt;code style=&#34;display: inline-block;&#34;&gt;Un giorno avrò un nome tutto mio&lt;/code&gt;
+    &lt;p class=&#34;player-age&#34; style=&#34;margin-block: 0;&#34;&gt;--/--/----&lt;/p&gt;
+    &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;---, ----&lt;/p&gt;
+    &lt;div class=&#34;player-specials&#34; style=&#34;margin-block: 1.75rem 0;&#34;&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Punto forte:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;Il tiro della tigre&lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Piatto preferito:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;----&lt;/span&gt;
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;statistiche&#34;&gt;Statistiche&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Statistica&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Punteggio&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Ore di tirocinio&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Ollama&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Passaggi filtranti&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Pause caffé&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Ore aspettando la compilazione&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2.5&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Voti, statistiche e altro, non hanno la pretesa di rappresentare davvero la persona e/o la sua capacità.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Cadoro</title>
+      <link>//localhost:1313/players/it/cadoro/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/players/it/cadoro/</guid>
+      <description>&lt;div class=&#34;player-header&#34; style=&#34;display: flex;&#34;&gt;
+  &lt;div class=&#34;player-avatar&#34; style=&#34;margin-inline-end: 40px;&#34;&gt;
+    &lt;img src=&#34;https://robohash.org/cadoro&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent)&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;player-info&#34;&gt;
+    &lt;p class=&#34;player-name&#34; style=&#34;margin-block: 0; font-size: 2.5rem; font-weight: bold; display: inline-block;&#34; id=&#34;player-name&#34;&gt;Giorgio,&lt;/p&gt;
+    &lt;code style=&#34;display: inline-block;&#34;&gt;È mia è mia è mia, la palla è la mia!!!&lt;/code&gt;
+    &lt;p class=&#34;player-age&#34; style=&#34;margin-block: 0;&#34;&gt;--/--/----&lt;/p&gt;
+    &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;---, ----&lt;/p&gt;
+    &lt;div class=&#34;player-specials&#34; style=&#34;margin-block: 1.75rem 0;&#34;&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Punto forte:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;La cura della barba&lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Piatto preferito:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;Probabilmente l&#39;amatriciana&lt;/span&gt;
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;statistiche&#34;&gt;Statistiche&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Statistica&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Punteggio&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Controllo palla&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Fiato&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Bava alla bocca&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Segno zodiacale&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2.5&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Voti, statistiche e altro, non hanno la pretesa di rappresentare davvero la persona e/o la sua capacità.&lt;/p&gt;</description>
+      <content>&lt;div class=&#34;player-header&#34; style=&#34;display: flex;&#34;&gt;
+  &lt;div class=&#34;player-avatar&#34; style=&#34;margin-inline-end: 40px;&#34;&gt;
+    &lt;img src=&#34;https://robohash.org/cadoro&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent)&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;player-info&#34;&gt;
+    &lt;p class=&#34;player-name&#34; style=&#34;margin-block: 0; font-size: 2.5rem; font-weight: bold; display: inline-block;&#34; id=&#34;player-name&#34;&gt;Giorgio,&lt;/p&gt;
+    &lt;code style=&#34;display: inline-block;&#34;&gt;È mia è mia è mia, la palla è la mia!!!&lt;/code&gt;
+    &lt;p class=&#34;player-age&#34; style=&#34;margin-block: 0;&#34;&gt;--/--/----&lt;/p&gt;
+    &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;---, ----&lt;/p&gt;
+    &lt;div class=&#34;player-specials&#34; style=&#34;margin-block: 1.75rem 0;&#34;&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Punto forte:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;La cura della barba&lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Piatto preferito:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;Probabilmente l&#39;amatriciana&lt;/span&gt;
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;statistiche&#34;&gt;Statistiche&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Statistica&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Punteggio&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Controllo palla&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Fiato&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Bava alla bocca&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Segno zodiacale&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2.5&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Voti, statistiche e altro, non hanno la pretesa di rappresentare davvero la persona e/o la sua capacità.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Cesko</title>
+      <link>//localhost:1313/players/it/cesko/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/players/it/cesko/</guid>
+      <description>&lt;div class=&#34;player-header&#34; style=&#34;display: flex;&#34;&gt;
+  &lt;div class=&#34;player-avatar&#34; style=&#34;margin-inline-end: 40px;&#34;&gt;
+    &lt;img src=&#34;https://robohash.org/cesko&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent)&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;player-info&#34;&gt;
+    &lt;p class=&#34;player-name&#34; style=&#34;margin-block: 0; font-size: 2.5rem; font-weight: bold; display: inline-block;&#34; id=&#34;player-name&#34;&gt;Cesko,&lt;/p&gt;
+    &lt;!-- &lt;code style=&#34;display: inline-block;&#34;&gt;È colpa della caviglia&lt;/code&gt; --&gt;
+    &lt;p class=&#34;player-age&#34; style=&#34;margin-block: 0;&#34;&gt;13/12/1990&lt;/p&gt;
+    &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;Ufficio 1, Piano 1&lt;/p&gt;
+    &lt;div class=&#34;player-specials&#34; style=&#34;margin-block: 1.75rem 0;&#34;&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Punto forte:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;La forchettata a giro&lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Piatto preferito:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;Probabilmente l&#39;amatriciana&lt;/span&gt;
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;statistiche&#34;&gt;Statistiche&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Statistica&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Punteggio&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Capelli&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Tiro Aggiro&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Kebab dal lurido&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Compilazione timesheets&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Igiene personale&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6.5&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Voti, statistiche e altro, non hanno la pretesa di rappresentare davvero la persona e/o la sua capacità.&lt;/p&gt;</description>
+      <content>&lt;div class=&#34;player-header&#34; style=&#34;display: flex;&#34;&gt;
+  &lt;div class=&#34;player-avatar&#34; style=&#34;margin-inline-end: 40px;&#34;&gt;
+    &lt;img src=&#34;https://robohash.org/cesko&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent)&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;player-info&#34;&gt;
+    &lt;p class=&#34;player-name&#34; style=&#34;margin-block: 0; font-size: 2.5rem; font-weight: bold; display: inline-block;&#34; id=&#34;player-name&#34;&gt;Cesko,&lt;/p&gt;
+    &lt;!-- &lt;code style=&#34;display: inline-block;&#34;&gt;È colpa della caviglia&lt;/code&gt; --&gt;
+    &lt;p class=&#34;player-age&#34; style=&#34;margin-block: 0;&#34;&gt;13/12/1990&lt;/p&gt;
+    &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;Ufficio 1, Piano 1&lt;/p&gt;
+    &lt;div class=&#34;player-specials&#34; style=&#34;margin-block: 1.75rem 0;&#34;&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Punto forte:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;La forchettata a giro&lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Piatto preferito:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;Probabilmente l&#39;amatriciana&lt;/span&gt;
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;statistiche&#34;&gt;Statistiche&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Statistica&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Punteggio&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Capelli&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Tiro Aggiro&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Kebab dal lurido&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Compilazione timesheets&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Igiene personale&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6.5&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Voti, statistiche e altro, non hanno la pretesa di rappresentare davvero la persona e/o la sua capacità.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Coletta</title>
+      <link>//localhost:1313/players/it/coletta/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/players/it/coletta/</guid>
+      <description>&lt;div class=&#34;player-header&#34; style=&#34;display: flex;&#34;&gt;
+  &lt;div class=&#34;player-avatar&#34; style=&#34;margin-inline-end: 40px;&#34;&gt;
+    &lt;img src=&#34;https://robohash.org/coletta&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent)&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;player-info&#34;&gt;
+    &lt;p class=&#34;player-name&#34; style=&#34;margin-block: 0; font-size: 2.5rem; font-weight: bold; display: inline-block;&#34; id=&#34;player-name&#34;&gt;Stefano,&lt;/p&gt;
+    &lt;code style=&#34;display: inline-block;&#34;&gt;Si sono rotte le scarpe&lt;/code&gt;
+    &lt;p class=&#34;player-age&#34; style=&#34;margin-block: 0;&#34;&gt;--/--/----&lt;/p&gt;
+    &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;---, ----&lt;/p&gt;
+    &lt;div class=&#34;player-specials&#34; style=&#34;margin-block: 1.75rem 0;&#34;&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Punto forte:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;Numero di piede&lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Piatto preferito:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;---&lt;/span&gt;
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;statistiche&#34;&gt;Statistiche&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Statistica&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Punteggio&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Controllo palla&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Scarpette&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;9.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Asso di briscola&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Biglietti pluritimbrati&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;SA8000&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;9.5&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Voti, statistiche e altro, non hanno la pretesa di rappresentare davvero la persona e/o la sua capacità.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+      <content>&lt;div class=&#34;player-header&#34; style=&#34;display: flex;&#34;&gt;
+  &lt;div class=&#34;player-avatar&#34; style=&#34;margin-inline-end: 40px;&#34;&gt;
+    &lt;img src=&#34;https://robohash.org/coletta&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent)&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;player-info&#34;&gt;
+    &lt;p class=&#34;player-name&#34; style=&#34;margin-block: 0; font-size: 2.5rem; font-weight: bold; display: inline-block;&#34; id=&#34;player-name&#34;&gt;Stefano,&lt;/p&gt;
+    &lt;code style=&#34;display: inline-block;&#34;&gt;Si sono rotte le scarpe&lt;/code&gt;
+    &lt;p class=&#34;player-age&#34; style=&#34;margin-block: 0;&#34;&gt;--/--/----&lt;/p&gt;
+    &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;---, ----&lt;/p&gt;
+    &lt;div class=&#34;player-specials&#34; style=&#34;margin-block: 1.75rem 0;&#34;&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Punto forte:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;Numero di piede&lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Piatto preferito:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;---&lt;/span&gt;
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;statistiche&#34;&gt;Statistiche&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Statistica&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Punteggio&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Controllo palla&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Scarpette&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;9.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Asso di briscola&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Biglietti pluritimbrati&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;SA8000&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;9.5&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Voti, statistiche e altro, non hanno la pretesa di rappresentare davvero la persona e/o la sua capacità.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Issimo</title>
+      <link>//localhost:1313/players/it/issimo/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/players/it/issimo/</guid>
+      <description>&lt;div class=&#34;player-header&#34; style=&#34;display: flex;&#34;&gt;
+  &lt;div class=&#34;player-avatar&#34; style=&#34;margin-inline-end: 40px;&#34;&gt;
+    &lt;img src=&#34;https://robohash.org/issimo&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent)&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;player-info&#34;&gt;
+    &lt;p class=&#34;player-name&#34; style=&#34;margin-block: 0; font-size: 2.5rem; font-weight: bold; display: inline-block;&#34; id=&#34;player-name&#34;&gt;Issimo,&lt;/p&gt;
+    &lt;code style=&#34;display: inline-block;&#34;&gt;È molto bravo, tu cosa hai fatto per meritartelo?&lt;/code&gt;
+    &lt;p class=&#34;player-age&#34; style=&#34;margin-block: 0;&#34;&gt;è/molto/giovane&lt;/p&gt;
+    &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;Ufficio 1, Piano 1 (per sempre con noi)&lt;/p&gt;
+    &lt;div class=&#34;player-specials&#34; style=&#34;margin-block: 1.75rem 0;&#34;&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Punto forte:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;Camminata in molleggio&lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Piatto preferito:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;La biondina della tper&lt;/span&gt;
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;statistiche&#34;&gt;Statistiche&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Statistica&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Punteggio&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Controllo palla&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;9&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Tocco delicato&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Cuoppo fritto&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Rapidità a pranzo&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;All&amp;rsquo; anagrafe&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Mattia Marcanti&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Voti, statistiche e altro, non hanno la pretesa di rappresentare davvero la persona e/o la sua capacità.&lt;/p&gt;</description>
+      <content>&lt;div class=&#34;player-header&#34; style=&#34;display: flex;&#34;&gt;
+  &lt;div class=&#34;player-avatar&#34; style=&#34;margin-inline-end: 40px;&#34;&gt;
+    &lt;img src=&#34;https://robohash.org/issimo&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent)&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;player-info&#34;&gt;
+    &lt;p class=&#34;player-name&#34; style=&#34;margin-block: 0; font-size: 2.5rem; font-weight: bold; display: inline-block;&#34; id=&#34;player-name&#34;&gt;Issimo,&lt;/p&gt;
+    &lt;code style=&#34;display: inline-block;&#34;&gt;È molto bravo, tu cosa hai fatto per meritartelo?&lt;/code&gt;
+    &lt;p class=&#34;player-age&#34; style=&#34;margin-block: 0;&#34;&gt;è/molto/giovane&lt;/p&gt;
+    &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;Ufficio 1, Piano 1 (per sempre con noi)&lt;/p&gt;
+    &lt;div class=&#34;player-specials&#34; style=&#34;margin-block: 1.75rem 0;&#34;&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Punto forte:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;Camminata in molleggio&lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Piatto preferito:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;La biondina della tper&lt;/span&gt;
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;statistiche&#34;&gt;Statistiche&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Statistica&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Punteggio&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Controllo palla&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;9&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Tocco delicato&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Cuoppo fritto&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Rapidità a pranzo&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;All&amp;rsquo; anagrafe&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Mattia Marcanti&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Voti, statistiche e altro, non hanno la pretesa di rappresentare davvero la persona e/o la sua capacità.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Portier</title>
+      <link>//localhost:1313/players/it/portier/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/players/it/portier/</guid>
+      <description>&lt;div class=&#34;player-header&#34; style=&#34;display: flex;&#34;&gt;
+  &lt;div class=&#34;player-avatar&#34; style=&#34;margin-inline-end: 40px;&#34;&gt;
+    &lt;img src=&#34;https://robohash.org/portier&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent)&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;player-info&#34;&gt;
+    &lt;p class=&#34;player-name&#34; style=&#34;margin-block: 0; font-size: 2.5rem; font-weight: bold; display: inline-block;&#34; id=&#34;player-name&#34;&gt;Portier,&lt;/p&gt;
+    &lt;code style=&#34;display: inline-block;&#34;&gt;Baby shark tutturututtutu&lt;/code&gt;
+    &lt;p class=&#34;player-age&#34; style=&#34;margin-block: 0;&#34;&gt;09/05/1934&lt;/p&gt;
+    &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;---, ----&lt;/p&gt;
+    &lt;div class=&#34;player-specials&#34; style=&#34;margin-block: 1.75rem 0;&#34;&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Punto forte:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;Il conto in banca della madre&lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Piatto preferito:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;Old Wild West&lt;/span&gt;
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;statistiche&#34;&gt;Statistiche&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Statistica&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Punteggio&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Controllo palla&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Capelli&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Evasione Fiscale&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;9.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Ore di lavoro&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Conoscenza su Batman&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8.5&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Voti, statistiche e altro, non hanno la pretesa di rappresentare davvero la persona e/o la sua capacità.&lt;/p&gt;</description>
+      <content>&lt;div class=&#34;player-header&#34; style=&#34;display: flex;&#34;&gt;
+  &lt;div class=&#34;player-avatar&#34; style=&#34;margin-inline-end: 40px;&#34;&gt;
+    &lt;img src=&#34;https://robohash.org/portier&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent)&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;player-info&#34;&gt;
+    &lt;p class=&#34;player-name&#34; style=&#34;margin-block: 0; font-size: 2.5rem; font-weight: bold; display: inline-block;&#34; id=&#34;player-name&#34;&gt;Portier,&lt;/p&gt;
+    &lt;code style=&#34;display: inline-block;&#34;&gt;Baby shark tutturututtutu&lt;/code&gt;
+    &lt;p class=&#34;player-age&#34; style=&#34;margin-block: 0;&#34;&gt;09/05/1934&lt;/p&gt;
+    &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;---, ----&lt;/p&gt;
+    &lt;div class=&#34;player-specials&#34; style=&#34;margin-block: 1.75rem 0;&#34;&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Punto forte:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;Il conto in banca della madre&lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Piatto preferito:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;Old Wild West&lt;/span&gt;
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;statistiche&#34;&gt;Statistiche&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Statistica&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Punteggio&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Controllo palla&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Capelli&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Evasione Fiscale&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;9.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Ore di lavoro&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Conoscenza su Batman&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8.5&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Voti, statistiche e altro, non hanno la pretesa di rappresentare davvero la persona e/o la sua capacità.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Samogginho</title>
+      <link>//localhost:1313/players/it/samogginho/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/players/it/samogginho/</guid>
+      <description>&lt;div class=&#34;player-header&#34; style=&#34;display: flex;&#34;&gt;
+  &lt;div class=&#34;player-avatar&#34; style=&#34;margin-inline-end: 40px;&#34;&gt;
+    &lt;img src=&#34;https://robohash.org/samogginho&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent)&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;player-info&#34;&gt;
+    &lt;p class=&#34;player-name&#34; style=&#34;margin-block: 0; font-size: 2.5rem; font-weight: bold; display: inline-block;&#34; id=&#34;player-name&#34;&gt;Simone Samogginho,&lt;/p&gt;
+    &lt;code style=&#34;display: inline-block;&#34;&gt;È colpa delle caviglie&lt;/code&gt;
+    &lt;p class=&#34;player-age&#34; style=&#34;margin-block: 0;&#34;&gt;--/--/----&lt;/p&gt;
+    &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;Ufficio 1, Piano 1&lt;/p&gt;
+    &lt;div class=&#34;player-specials&#34; style=&#34;margin-block: 1.75rem 0;&#34;&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Una volta disse:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;&#34;uh tiranji a jirangiu&#34;&lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Piatto preferito:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;a&#39; Feijoada&lt;/span&gt;
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;statistiche&#34;&gt;Statistiche&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Statistica&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Punteggio&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Samba&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;9&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Ciuffo biondo&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Caviglie&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Cicchetti alla frutta&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8.5&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Voti, statistiche e altro, non hanno la pretesa di rappresentare davvero la persona e/o la sua capacità.&lt;/p&gt;</description>
+      <content>&lt;div class=&#34;player-header&#34; style=&#34;display: flex;&#34;&gt;
+  &lt;div class=&#34;player-avatar&#34; style=&#34;margin-inline-end: 40px;&#34;&gt;
+    &lt;img src=&#34;https://robohash.org/samogginho&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent)&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;player-info&#34;&gt;
+    &lt;p class=&#34;player-name&#34; style=&#34;margin-block: 0; font-size: 2.5rem; font-weight: bold; display: inline-block;&#34; id=&#34;player-name&#34;&gt;Simone Samogginho,&lt;/p&gt;
+    &lt;code style=&#34;display: inline-block;&#34;&gt;È colpa delle caviglie&lt;/code&gt;
+    &lt;p class=&#34;player-age&#34; style=&#34;margin-block: 0;&#34;&gt;--/--/----&lt;/p&gt;
+    &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;Ufficio 1, Piano 1&lt;/p&gt;
+    &lt;div class=&#34;player-specials&#34; style=&#34;margin-block: 1.75rem 0;&#34;&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Una volta disse:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;&#34;uh tiranji a jirangiu&#34;&lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Piatto preferito:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;a&#39; Feijoada&lt;/span&gt;
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;statistiche&#34;&gt;Statistiche&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Statistica&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Punteggio&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Samba&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;9&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Ciuffo biondo&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Caviglie&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Cicchetti alla frutta&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8.5&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Voti, statistiche e altro, non hanno la pretesa di rappresentare davvero la persona e/o la sua capacità.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Zeffiro</title>
+      <link>//localhost:1313/players/it/zeffiro/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/players/it/zeffiro/</guid>
+      <description>&lt;div class=&#34;player-header&#34; style=&#34;display: flex;&#34;&gt;
+  &lt;div class=&#34;player-avatar&#34; style=&#34;margin-inline-end: 40px;&#34;&gt;
+    &lt;img src=&#34;https://robohash.org/zeffiro&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent)&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;player-info&#34;&gt;
+    &lt;p class=&#34;player-name&#34; style=&#34;margin-block: 0; font-size: 2.5rem; font-weight: bold; display: inline-block;&#34; id=&#34;player-name&#34;&gt;Lorenzo,&lt;/p&gt;
+    &lt;!-- &lt;code style=&#34;display: inline-block;&#34;&gt;È colpa della caviglia&lt;/code&gt; --&gt;
+    &lt;p class=&#34;player-age&#34; style=&#34;margin-block: 0;&#34;&gt;--/--/----&lt;/p&gt;
+    &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;---, ----&lt;/p&gt;
+    &lt;div class=&#34;player-specials&#34; style=&#34;margin-block: 1.75rem 0;&#34;&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Punto debole:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;Tifa Juve&lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Piatto preferito:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;Probabilmente l&#39;amatriciana&lt;/span&gt;
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;statistiche&#34;&gt;Statistiche&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Statistica&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Punteggio&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Supporto all&amp;rsquo;organizzatore&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Parastinchi&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Tiro&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Scarpe riflettenti&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;10+&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Voti, statistiche e altro, non hanno la pretesa di rappresentare davvero la persona e/o la sua capacità.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+      <content>&lt;div class=&#34;player-header&#34; style=&#34;display: flex;&#34;&gt;
+  &lt;div class=&#34;player-avatar&#34; style=&#34;margin-inline-end: 40px;&#34;&gt;
+    &lt;img src=&#34;https://robohash.org/zeffiro&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent)&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;player-info&#34;&gt;
+    &lt;p class=&#34;player-name&#34; style=&#34;margin-block: 0; font-size: 2.5rem; font-weight: bold; display: inline-block;&#34; id=&#34;player-name&#34;&gt;Lorenzo,&lt;/p&gt;
+    &lt;!-- &lt;code style=&#34;display: inline-block;&#34;&gt;È colpa della caviglia&lt;/code&gt; --&gt;
+    &lt;p class=&#34;player-age&#34; style=&#34;margin-block: 0;&#34;&gt;--/--/----&lt;/p&gt;
+    &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;---, ----&lt;/p&gt;
+    &lt;div class=&#34;player-specials&#34; style=&#34;margin-block: 1.75rem 0;&#34;&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Punto debole:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;Tifa Juve&lt;/span&gt;
+      &lt;/p&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Piatto preferito:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;Probabilmente l&#39;amatriciana&lt;/span&gt;
+      &lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;statistiche&#34;&gt;Statistiche&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Statistica&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Punteggio&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Supporto all&amp;rsquo;organizzatore&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Parastinchi&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Tiro&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Scarpe riflettenti&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;10+&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Voti, statistiche e altro, non hanno la pretesa di rappresentare davvero la persona e/o la sua capacità.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Zingales</title>
+      <link>//localhost:1313/players/it/zingales/</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/players/it/zingales/</guid>
+      <description>&lt;div class=&#34;player-header&#34; style=&#34;display: flex;&#34;&gt;
+  &lt;div class=&#34;player-avatar&#34; style=&#34;margin-inline-end: 40px;&#34;&gt;
+    &lt;img src=&#34;https://robohash.org/zingales&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent)&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;player-info&#34;&gt;
+    &lt;p class=&#34;player-name&#34; style=&#34;margin-block: 0; font-size: 2.5rem; font-weight: bold; display: inline-block;&#34; id=&#34;player-name&#34;&gt;Alvise,&lt;/p&gt;
+    &lt;code style=&#34;display: inline-block;&#34;&gt;E invece quella?&lt;/code&gt;
+    &lt;p class=&#34;player-age&#34; style=&#34;margin-block: 0;&#34;&gt;--/--/----&lt;/p&gt;
+    &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;---, -----&lt;/p&gt;
+    &lt;div class=&#34;player-specials&#34; style=&#34;margin-block: 1.75rem 0;&#34;&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Punto forte:&lt;/span&gt;
+        &lt;span style=&#34;font-size: 3rem&#34;&gt;Rimpallo&lt;/span&gt;
+      &lt;/p&gt;
+      &lt;!-- &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;Probabilmente l&#39;amatriciana&lt;/span&gt;
+      &lt;/p&gt; --&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;statistiche&#34;&gt;Statistiche&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Statistica&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Punteggio&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Mascottagine&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Muesli&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Tiro&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Controllo palla&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;code&gt;Random rand = new Random().nextInt(50);&lt;/code&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Voti, statistiche e altro, non hanno la pretesa di rappresentare davvero la persona e/o la sua capacità.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+      <content>&lt;div class=&#34;player-header&#34; style=&#34;display: flex;&#34;&gt;
+  &lt;div class=&#34;player-avatar&#34; style=&#34;margin-inline-end: 40px;&#34;&gt;
+    &lt;img src=&#34;https://robohash.org/zingales&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent)&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;player-info&#34;&gt;
+    &lt;p class=&#34;player-name&#34; style=&#34;margin-block: 0; font-size: 2.5rem; font-weight: bold; display: inline-block;&#34; id=&#34;player-name&#34;&gt;Alvise,&lt;/p&gt;
+    &lt;code style=&#34;display: inline-block;&#34;&gt;E invece quella?&lt;/code&gt;
+    &lt;p class=&#34;player-age&#34; style=&#34;margin-block: 0;&#34;&gt;--/--/----&lt;/p&gt;
+    &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;---, -----&lt;/p&gt;
+    &lt;div class=&#34;player-specials&#34; style=&#34;margin-block: 1.75rem 0;&#34;&gt;
+      &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;Punto forte:&lt;/span&gt;
+        &lt;span style=&#34;font-size: 3rem&#34;&gt;Rimpallo&lt;/span&gt;
+      &lt;/p&gt;
+      &lt;!-- &lt;p class=&#34;player-office&#34; style=&#34;margin-block: 0;&#34;&gt;
+        &lt;span style=&#34;font-weight: bold&#34;&gt;:&lt;/span&gt;
+        &lt;span style=&#34;&#34;&gt;Probabilmente l&#39;amatriciana&lt;/span&gt;
+      &lt;/p&gt; --&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;statistiche&#34;&gt;Statistiche&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Statistica&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Punteggio&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Mascottagine&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Muesli&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Tiro&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4.5&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Controllo palla&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;code&gt;Random rand = new Random().nextInt(50);&lt;/code&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Voti, statistiche e altro, non hanno la pretesa di rappresentare davvero la persona e/o la sua capacità.&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>17 Dicembre 2024</title>
+      <link>//localhost:1313/posts/it/dec_24/17/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/it/dec_24/17/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;//localhost:1313/matches/&#34;&gt;&lt;em&gt;&amp;lt;- Partite&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Premessa per i nuovi, i voti ma anche le descrizioni sono praticamente scritte a caso e senza la speranza di rappresentare ciò che sia davvero successo in campo, praticamente i voti non sono altro che delle cagate scritte per fare il cretino 😁&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;resoconto&#34;&gt;Resoconto&lt;/h2&gt;
+&lt;p&gt;Secondo tentativo di “1st floor” Vs “2nd floor” che stavolta ha tirato fuori una partita leggermente più bilanciata della prima.&lt;/p&gt;
+&lt;p&gt;Risultato finale di: &lt;code&gt;qualcosa a qualcos&#39;altro&lt;/code&gt;&lt;/p&gt;</description>
+      <content>&lt;p&gt;&lt;a href=&#34;//localhost:1313/matches/&#34;&gt;&lt;em&gt;&amp;lt;- Partite&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Premessa per i nuovi, i voti ma anche le descrizioni sono praticamente scritte a caso e senza la speranza di rappresentare ciò che sia davvero successo in campo, praticamente i voti non sono altro che delle cagate scritte per fare il cretino 😁&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;resoconto&#34;&gt;Resoconto&lt;/h2&gt;
+&lt;p&gt;Secondo tentativo di “1st floor” Vs “2nd floor” che stavolta ha tirato fuori una partita leggermente più bilanciata della prima.&lt;/p&gt;
+&lt;p&gt;Risultato finale di: &lt;code&gt;qualcosa a qualcos&#39;altro&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;con il “qualcosa” che vale la seconda vittoria del primo piano, diciamolo chiaramente, risultato ottenuto principalmente grazie alle ottime prestazioni di Samoggia Jr (detto &lt;a href=&#34;//localhost:1313/players/it/samogginho/&#34;&gt;&lt;code&gt;Samogginho&lt;/code&gt;&lt;/a&gt;) e Borelli jr (detto &lt;a href=&#34;//localhost:1313/players/it/borelli/&#34;&gt;&lt;code&gt;Borelli Jr&lt;/code&gt;&lt;/a&gt;… &lt;em&gt;ma é ad un passo dal guadagnarsi un nome tutto suo!&lt;/em&gt;) che si abbeverano alla fontana della loro pregressa esperienza calcistica condivisa e prendono sulle spalle la squadra (&lt;code&gt;NDR: 1st floor&lt;/code&gt;), altrimenti allo sbando con un &lt;a href=&#34;//localhost:1313/players/it/cesko/&#34;&gt;&lt;code&gt;Cesko&lt;/code&gt;&lt;/a&gt; assolutamente lontano dai suoi standard (comunque bassi) ed un &lt;a href=&#34;//localhost:1313/players/it/portier/&#34;&gt;&lt;code&gt;Portier&lt;/code&gt;&lt;/a&gt; che non Portiera.&lt;/p&gt;
+&lt;p&gt;Nella squadra del secondo piano, ottima come sempre le prestazioni del duo &lt;a href=&#34;//localhost:1313/players/it/azzalin/&#34;&gt;&lt;code&gt;Azzalin&lt;/code&gt;&lt;/a&gt; &lt;a href=&#34;//localhost:1313/players/it/zeffiro/&#34;&gt;&lt;code&gt;Zeffiro&lt;/code&gt;&lt;/a&gt; (aka &lt;em&gt;Azzaferin&lt;/em&gt;), almeno finché &lt;a href=&#34;//localhost:1313/players/it/azzalin/&#34;&gt;&lt;code&gt;Nicola&lt;/code&gt;&lt;/a&gt; non si procura un leggero stiramento e si mette in porta, Portierando comunque molto di più del &lt;a href=&#34;//localhost:1313/players/it/portier/&#34;&gt;&lt;code&gt;Portier&lt;/code&gt;&lt;/a&gt;, che vabbé, già detto…&lt;/p&gt;
+&lt;p&gt;Fa un buon ingresso e primo match il buon &lt;a href=&#34;//localhost:1313/players/it/cadoro/&#34;&gt;&lt;code&gt;Giorgio Cadoro&lt;/code&gt;&lt;/a&gt;, coadiuvato da un buon &lt;a href=&#34;//localhost:1313/players/it/coletta/&#34;&gt;&lt;code&gt;Coletta&lt;/code&gt;&lt;/a&gt; che con le scarpe giuste è tutto un inserimento di qua, uno sfondamento di là e si lancia in una forsennata battaglia legale con il pubblico ministero per cercare di evitare l&amp;rsquo;arresto di &lt;a href=&#34;//localhost:1313/players/it/zingales/&#34;&gt;&lt;code&gt;Alvise&lt;/code&gt;&lt;/a&gt; dalla Rimpollizia, che al secondo rimpallo vinto nei primi 7 secondi di partita volevano già arrestarlo e &lt;a href=&#34;https://youtu.be/pk3_Y_XC7Q4?si=sWdF_XvMM1GpwGwb&amp;amp;t=40&#34;&gt;processarlo per direttissima&lt;/a&gt;, come disse Maurizio Mosca.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Ed il momento che nessuno aspettava escluso me che mi diverto tanto&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;i-voti&#34;&gt;I voti&lt;/h2&gt;
+&lt;h3 id=&#34;portierplayersitportiermd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/portier/&#34;&gt;Portier&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Partita sottotono, non insufficiente ma senza infamia né lode, sicuramente non senza soldi, bastardo.&lt;/p&gt;
+&lt;p&gt;Voto: &lt;code&gt;Benefattore&lt;/code&gt;, &lt;em&gt;perché mi ha offerto la cena da Old Wild West&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;ceskoplayersitceskomd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/cesko/&#34;&gt;Cesko&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Nonostante la prestazione opaca (prima o poi smetterà di avere la scusa della caviglia, ma finché rimane valida ha intenzione di sfruttarla appieno) segna due gol, soprattutto grazie al gioco degli altri per cui deve solo appoggiare, come in discoteca.&lt;/p&gt;
+&lt;p&gt;Voto: &lt;code&gt;Salsa dell’Old Wild West&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;samogginhoplayersitsamogginhomd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/samogginho/&#34;&gt;Samogginho&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Prestazione eccellente, quasi al livello dei cannelloni del giovedì in mensa, scorazza e allaccia una fitta rete di passaggi e tiri filtranti.&lt;/p&gt;
+&lt;p&gt;Voto: &lt;code&gt;Riso con il ragù&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;borelli-jrplayersitborellimd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/borelli/&#34;&gt;Borelli Jr&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Se la gioca, se la suona e se la canta, tira e segna da ogni parte del campo, triangola e alle volte rettangola ma dà l’impressione di non aver mostrato ancora tutto, vedremo in futuro.&lt;/p&gt;
+&lt;p&gt;Voto: &lt;code&gt;La maglietta di Ronaldo era finita&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;matteo&#34;&gt;Matteo&lt;/h3&gt;
+&lt;p&gt;Prestazione altalenante, qualche imprecisione di troppo e qualche buono spunto, però letteralmente non l’ho mai sentito parlare, neanche una bestemmia, o un’imprecazione, ma poi nemmeno un intervento scomposto, dai, troppo preciso, mi hai fatto passare per un animale!&lt;/p&gt;
+&lt;p&gt;Voto: &lt;code&gt;Chierichetto&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;lorenzoplayersitzeffiromd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/zeffiro/&#34;&gt;Lorenzo&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Che dire che non sappiamo già? Prestazione solida e concreta come al solito, tecnicamente ineccepibile, prenota il campo, raccoglie i soldi, gestisce i suoi compagni come un maestro d’orchestra.&lt;/p&gt;
+&lt;p&gt;Voto: &lt;code&gt;Beppe Vessicchio&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;stefanoplayersitcolettamd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/coletta/&#34;&gt;Stefano&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Ha trovato le scarpe giuste e si vede, terrore dei calci d’angolo si infila in area di rigore involandosi in picchiata come l’animale simbolo degli USA e no, non sto parlando dell’americano medio al free refill del Burger King ma dell&amp;rsquo;aquila reale.&lt;/p&gt;
+&lt;p&gt;Voto: &lt;code&gt;Ariete ascendente Inzaghi&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;nicolaplayersitazzalinmd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/azzalin/&#34;&gt;Nicola&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Preciso e chirurgico come sempre, la palla si muove come telecomandata, peccato per l’infortunio che lo costringe in porta altrimenti staremmo probabilmente parlando di un’altra partita, &lt;em&gt;Inter - Cagliari&lt;/em&gt; o &lt;em&gt;Chievo - Livorno&lt;/em&gt;, decidete voi.&lt;/p&gt;
+&lt;p&gt;Voto: &lt;code&gt;No Maria io entro in porta, fa male&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;giorgioplayersitcadoromd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/cadoro/&#34;&gt;Giorgio&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Buona la prima! É sempre presente, in ogni punto del campo, sia in difesa che in attacco, prestazione fisica ma senza mai esagerare, ci mette corsa, anima e impegno.&lt;/p&gt;
+&lt;p&gt;Voto: &lt;code&gt;Prezzemolo&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;alviseplayersitzingalesmd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/zingales/&#34;&gt;Alvise&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Ma che altro vi posso dire che già non sappiate…&lt;/p&gt;
+&lt;p&gt;È la mascotte di Finmatica, tutti gli vogliamo bene nonostante le battute di quarto livello e gli perdoniamo persino l’essere terrone, ma porca puttana se vinci un altro rimpallo ti sego le gambe ❤️&lt;/p&gt;
+&lt;p&gt;Voto: &lt;code&gt;Magneti Marelli&lt;/code&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Per polemiche e correzioni sul resoconto ed i voti, scrivete a &lt;a href=&#34;mailto:d.gualtieri@ads.it&#34;&gt;d.gualtieri@ads.it&lt;/a&gt; &amp;gt; &lt;em&gt;&lt;code&gt;No scherzo, non fatelo&lt;/code&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/matches/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/matches/</guid>
+      <description>&lt;h1 id=&#34;partite&#34;&gt;Partite&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;//localhost:1313/content/months/dec_24.md&#34;&gt;## Dicembre 2024&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;dicembre-2024&#34;&gt;&lt;a href=&#34;//localhost:1313/months/dec_24&#34;&gt;Dicembre 2024&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;//localhost:1313/dec_24/17&#34;&gt;### 17 dicembre 2024&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;17-dicembre-2024&#34;&gt;&lt;a href=&#34;//localhost:1313/dec_24/17&#34;&gt;17 dicembre 2024&lt;/a&gt;&lt;/h3&gt;</description>
+      <content>&lt;h1 id=&#34;partite&#34;&gt;Partite&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;//localhost:1313/content/months/dec_24.md&#34;&gt;## Dicembre 2024&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;dicembre-2024&#34;&gt;&lt;a href=&#34;//localhost:1313/months/dec_24&#34;&gt;Dicembre 2024&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;//localhost:1313/dec_24/17&#34;&gt;### 17 dicembre 2024&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;17-dicembre-2024&#34;&gt;&lt;a href=&#34;//localhost:1313/dec_24/17&#34;&gt;17 dicembre 2024&lt;/a&gt;&lt;/h3&gt;</content>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/months/dec_24/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/months/dec_24/</guid>
+      <description>&lt;h1 id=&#34;dicembre-2024&#34;&gt;Dicembre 2024&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;//localhost:1313/posts/it/dec_24/17/&#34;&gt;## 17 dicembre 2024&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content>&lt;h1 id=&#34;dicembre-2024&#34;&gt;Dicembre 2024&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;//localhost:1313/posts/it/dec_24/17/&#34;&gt;## 17 dicembre 2024&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/players/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/players/</guid>
+      <description>&lt;h1 id=&#34;giocatori&#34;&gt;Giocatori&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Una lista non ordinata né tantomeno completa dei giocatori di Finmatica.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;ceskocontentplayersitceskomd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/cesko/&#34;&gt;&lt;code&gt;Cesko&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;samogginhocontentplayersitsamogginhomd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/samogginho/&#34;&gt;&lt;code&gt;Samogginho&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;colettacontentplayersitcolettamd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/coletta/&#34;&gt;&lt;code&gt;Coletta&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;portiercontentplayersitportiermd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/portier/&#34;&gt;&lt;code&gt;Portier&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;borellicontentplayersitborellimd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/borelli/&#34;&gt;&lt;code&gt;Borelli&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;issimocontentplayersitissimomd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/issimo/&#34;&gt;&lt;code&gt;Issimo&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;azzalincontentplayersitazzalinmd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/azzalin/&#34;&gt;&lt;code&gt;Azzalin&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;zeffirocontentplayersitzeffiromd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/zeffiro/&#34;&gt;&lt;code&gt;Zeffiro&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;cadorocontentplayersitcadoromd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/cadoro/&#34;&gt;&lt;code&gt;Cadoro&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;zingalescontentplayersitzingalesmd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/zingales/&#34;&gt;&lt;code&gt;Zingales&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description>
+      <content>&lt;h1 id=&#34;giocatori&#34;&gt;Giocatori&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Una lista non ordinata né tantomeno completa dei giocatori di Finmatica.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;ceskocontentplayersitceskomd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/cesko/&#34;&gt;&lt;code&gt;Cesko&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;samogginhocontentplayersitsamogginhomd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/samogginho/&#34;&gt;&lt;code&gt;Samogginho&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;colettacontentplayersitcolettamd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/coletta/&#34;&gt;&lt;code&gt;Coletta&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;portiercontentplayersitportiermd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/portier/&#34;&gt;&lt;code&gt;Portier&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;borellicontentplayersitborellimd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/borelli/&#34;&gt;&lt;code&gt;Borelli&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;issimocontentplayersitissimomd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/issimo/&#34;&gt;&lt;code&gt;Issimo&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;azzalincontentplayersitazzalinmd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/azzalin/&#34;&gt;&lt;code&gt;Azzalin&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;zeffirocontentplayersitzeffiromd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/zeffiro/&#34;&gt;&lt;code&gt;Zeffiro&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;cadorocontentplayersitcadoromd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/cadoro/&#34;&gt;&lt;code&gt;Cadoro&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id=&#34;zingalescontentplayersitzingalesmd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/zingales/&#34;&gt;&lt;code&gt;Zingales&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
