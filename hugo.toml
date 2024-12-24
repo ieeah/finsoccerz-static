@@ -35,7 +35,7 @@ defaultContentLanguage = "it"
     
     [languages.it.params.logo]
       logoText = "Home"
-      logoHomeLink = "/"
+      logoHomeLink = "/finsoccerz-static"
 
     [languages.it.menu]
       [[languages.it.menu.main]]
