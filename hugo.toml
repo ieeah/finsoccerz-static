@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://ieeah.github.io/finsoccerz-static/'
 languageCode = 'it-it'
 title = 'Finsoccerz'
 theme = 're-terminal'
@@ -35,7 +35,7 @@ defaultContentLanguage = "it"
     
     [languages.it.params.logo]
       logoText = "Home"
-      logoHomeLink = "/finsoccerz-static"
+      logoHomeLink = "https://ieeah.github.io/finsoccerz-static/"
 
     [languages.it.menu]
       [[languages.it.menu.main]]
