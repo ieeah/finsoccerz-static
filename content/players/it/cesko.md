@@ -3,7 +3,7 @@ title= "Cesko"
 date= "2024-12-23"
 author= "ieeah"
 hideComments= true
-# cover= "https://robohash.org/azzalin"
+# cover= "https://robohash.org/cesko"
 +++
 
 <div class="player-header" style="display: flex;">
@@ -12,7 +12,7 @@ hideComments= true
   </div>
   <div class="player-info">
     <p class="player-name" style="margin-block: 0; font-size: 2.5rem; font-weight: bold; display: inline-block;" id="player-name">Cesko,</p>
-    <!-- <code style="display: inline-block;">È colpa della caviglia</code> -->
+    <code style="display: inline-block;">È colpa della caviglia</code>
     <p class="player-age" style="margin-block: 0;">13/12/1990</p>
     <p class="player-office" style="margin-block: 0;">Ufficio 1, Piano 1</p>
     <div class="player-specials" style="margin-block: 1.75rem 0;">
