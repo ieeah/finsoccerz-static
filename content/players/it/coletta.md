@@ -12,7 +12,7 @@ hideComments= true
   </div>
   <div class="player-info">
     <p class="player-name" style="margin-block: 0; font-size: 2.5rem; font-weight: bold; display: inline-block;" id="player-name">Stefano,</p>
-    <code style="display: inline-block;">Si sono rotte le scarpe</code>
+    <code style="display: inline-block;">Sono senza scarpe</code>
     <p class="player-age" style="margin-block: 0;">--/--/----</p>
     <p class="player-office" style="margin-block: 0;">---, ----</p>
     <div class="player-specials" style="margin-block: 1.75rem 0;">

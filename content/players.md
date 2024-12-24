@@ -2,7 +2,7 @@
 
 > Una lista non ordinata né tantomeno completa dei giocatori di Finmatica.
 
-1. ## [`Cesko`](../content/players/it/Cesko.md)
+1. ## [`Cesko`](../content/players/it/cesko.md)
 
 2. ## [`Samogginho`](../content/players/it/samogginho.md)
 
