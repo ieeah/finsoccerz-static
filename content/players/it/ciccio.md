@@ -18,7 +18,7 @@ hideComments= true
     <div class="player-specials" style="margin-block: 1.75rem 0;">
       <p class="player-office" style="margin-block: 0;">
         <span style="font-weight: bold">Piatto preferito:</span>
-        <span style="">Le cozze</span>
+        <span style="">Pasta con "li cozzi"</span>
       </p>
       <p class="player-office" style="margin-block: 0;">
         <span style="font-weight: bold">Detto anche:</span>
@@ -37,6 +37,7 @@ hideComments= true
 | Piede destro | 6 |
 | Piede sinistro | N/C |
 | Taralli | 8.5 |
+| Presenze | 3 |
 
 ---
 

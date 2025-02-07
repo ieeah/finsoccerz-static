@@ -36,6 +36,7 @@ hideComments= true
 | Ciuffo biondo | 7.5 |
 | Caviglie | 5.5 |
 | Cicchetti alla frutta | 8.5 |
+| Presenze | 2 |
 
 ---
 

@@ -36,6 +36,7 @@ hideComments= true
 | Fiato | 7.5 |
 | Bava alla bocca | 8.5 |
 | Segno zodiacale | 2.5 |
+| Presenze | 2 |
 
 ---
 

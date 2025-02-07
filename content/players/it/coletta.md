@@ -37,6 +37,7 @@ hideComments= true
 | Asso di briscola | 3.5 |
 | Biglietti pluritimbrati | 6.5 |
 | SA8000 | 9.5 |
+| Presenze | 2 |
 
 ---
 

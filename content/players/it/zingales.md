@@ -36,6 +36,7 @@ hideComments= true
 | Muesli | 7.5 |
 | Tiro | 4.5 |
 | Controllo palla | <code>Random rand = new Random().nextInt(50);</code> |
+| Presenze | 4 |
 
 ---
 

@@ -36,6 +36,7 @@ hideComments= true
 | Parastinchi | 7.5 |
 | Tiro | 8.5 |
 | Scarpe riflettenti | 10+ |
+| Presenze | 3 |
 
 ---
 

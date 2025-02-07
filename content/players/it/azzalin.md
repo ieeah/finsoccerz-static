@@ -37,6 +37,7 @@ hideComments= true
 | Passaggio filtrante | 6.5 |
 | Aperitivo | 9.5 |
 | Pausa pranzo | La schiscietta |
+| Presenze | 4 |
 
 ---
 

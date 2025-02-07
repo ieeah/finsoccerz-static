@@ -37,6 +37,7 @@ hideComments= true
 | Kebab dal lurido | 8.5 |
 | Compilazione timesheets | 3.5 |
 | Igiene personale | 6.5 |
+| Presenze | 4 |
 
 ---
 
