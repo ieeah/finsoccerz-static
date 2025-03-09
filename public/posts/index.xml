@@ -2,71 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Finsoccerz</title>
-    <link>//localhost:1313/posts/</link>
+    <link>http://localhost:1313/finsoccerz-static/posts/</link>
     <description>Recent content in Posts on Finsoccerz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it</language>
-    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>it</language><atom:link href="http://localhost:1313/finsoccerz-static/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>17 Dicembre 2024</title>
-      <link>//localhost:1313/posts/it/dec_24/17/</link>
-      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>http://localhost:1313/finsoccerz-static/posts/it/2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/it/dec_24/17/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;//localhost:1313/matches/&#34;&gt;&lt;em&gt;&amp;lt;- Partite&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Premessa per i nuovi, i voti ma anche le descrizioni sono praticamente scritte a caso e senza la speranza di rappresentare ciò che sia davvero successo in campo, praticamente i voti non sono altro che delle cagate scritte per fare il cretino 😁&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;resoconto&#34;&gt;Resoconto&lt;/h2&gt;
-&lt;p&gt;Secondo tentativo di “1st floor” Vs “2nd floor” che stavolta ha tirato fuori una partita leggermente più bilanciata della prima.&lt;/p&gt;
-&lt;p&gt;Risultato finale di: &lt;code&gt;qualcosa a qualcos&#39;altro&lt;/code&gt;&lt;/p&gt;</description>
-      <content>&lt;p&gt;&lt;a href=&#34;//localhost:1313/matches/&#34;&gt;&lt;em&gt;&amp;lt;- Partite&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Premessa per i nuovi, i voti ma anche le descrizioni sono praticamente scritte a caso e senza la speranza di rappresentare ciò che sia davvero successo in campo, praticamente i voti non sono altro che delle cagate scritte per fare il cretino 😁&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;resoconto&#34;&gt;Resoconto&lt;/h2&gt;
-&lt;p&gt;Secondo tentativo di “1st floor” Vs “2nd floor” che stavolta ha tirato fuori una partita leggermente più bilanciata della prima.&lt;/p&gt;
-&lt;p&gt;Risultato finale di: &lt;code&gt;qualcosa a qualcos&#39;altro&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;con il “qualcosa” che vale la seconda vittoria del primo piano, diciamolo chiaramente, risultato ottenuto principalmente grazie alle ottime prestazioni di Samoggia Jr (detto &lt;a href=&#34;//localhost:1313/players/it/samogginho/&#34;&gt;&lt;code&gt;Samogginho&lt;/code&gt;&lt;/a&gt;) e Borelli jr (detto &lt;a href=&#34;//localhost:1313/players/it/borelli/&#34;&gt;&lt;code&gt;Borelli Jr&lt;/code&gt;&lt;/a&gt;… &lt;em&gt;ma é ad un passo dal guadagnarsi un nome tutto suo!&lt;/em&gt;) che si abbeverano alla fontana della loro pregressa esperienza calcistica condivisa e prendono sulle spalle la squadra (&lt;code&gt;NDR: 1st floor&lt;/code&gt;), altrimenti allo sbando con un &lt;a href=&#34;//localhost:1313/players/it/cesko/&#34;&gt;&lt;code&gt;Cesko&lt;/code&gt;&lt;/a&gt; assolutamente lontano dai suoi standard (comunque bassi) ed un &lt;a href=&#34;//localhost:1313/players/it/portier/&#34;&gt;&lt;code&gt;Portier&lt;/code&gt;&lt;/a&gt; che non Portiera.&lt;/p&gt;
-&lt;p&gt;Nella squadra del secondo piano, ottima come sempre le prestazioni del duo &lt;a href=&#34;//localhost:1313/players/it/azzalin/&#34;&gt;&lt;code&gt;Azzalin&lt;/code&gt;&lt;/a&gt; &lt;a href=&#34;//localhost:1313/players/it/zeffiro/&#34;&gt;&lt;code&gt;Zeffiro&lt;/code&gt;&lt;/a&gt; (aka &lt;em&gt;Azzaferin&lt;/em&gt;), almeno finché &lt;a href=&#34;//localhost:1313/players/it/azzalin/&#34;&gt;&lt;code&gt;Nicola&lt;/code&gt;&lt;/a&gt; non si procura un leggero stiramento e si mette in porta, Portierando comunque molto di più del &lt;a href=&#34;//localhost:1313/players/it/portier/&#34;&gt;&lt;code&gt;Portier&lt;/code&gt;&lt;/a&gt;, che vabbé, già detto…&lt;/p&gt;
-&lt;p&gt;Fa un buon ingresso e primo match il buon &lt;a href=&#34;//localhost:1313/players/it/cadoro/&#34;&gt;&lt;code&gt;Giorgio Cadoro&lt;/code&gt;&lt;/a&gt;, coadiuvato da un buon &lt;a href=&#34;//localhost:1313/players/it/coletta/&#34;&gt;&lt;code&gt;Coletta&lt;/code&gt;&lt;/a&gt; che con le scarpe giuste è tutto un inserimento di qua, uno sfondamento di là e si lancia in una forsennata battaglia legale con il pubblico ministero per cercare di evitare l&amp;rsquo;arresto di &lt;a href=&#34;//localhost:1313/players/it/zingales/&#34;&gt;&lt;code&gt;Alvise&lt;/code&gt;&lt;/a&gt; dalla Rimpollizia, che al secondo rimpallo vinto nei primi 7 secondi di partita volevano già arrestarlo e &lt;a href=&#34;https://youtu.be/pk3_Y_XC7Q4?si=sWdF_XvMM1GpwGwb&amp;amp;t=40&#34;&gt;processarlo per direttissima&lt;/a&gt;, come disse Maurizio Mosca.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;Ed il momento che nessuno aspettava escluso me che mi diverto tanto&amp;hellip;&lt;/p&gt;
-&lt;h2 id=&#34;i-voti&#34;&gt;I voti&lt;/h2&gt;
-&lt;h3 id=&#34;portierplayersitportiermd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/portier/&#34;&gt;Portier&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Partita sottotono, non insufficiente ma senza infamia né lode, sicuramente non senza soldi, bastardo.&lt;/p&gt;
-&lt;p&gt;Voto: &lt;code&gt;Benefattore&lt;/code&gt;, &lt;em&gt;perché mi ha offerto la cena da Old Wild West&lt;/em&gt;&lt;/p&gt;
-&lt;h3 id=&#34;ceskoplayersitceskomd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/cesko/&#34;&gt;Cesko&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Nonostante la prestazione opaca (prima o poi smetterà di avere la scusa della caviglia, ma finché rimane valida ha intenzione di sfruttarla appieno) segna due gol, soprattutto grazie al gioco degli altri per cui deve solo appoggiare, come in discoteca.&lt;/p&gt;
-&lt;p&gt;Voto: &lt;code&gt;Salsa dell’Old Wild West&lt;/code&gt;&lt;/p&gt;
-&lt;h3 id=&#34;samogginhoplayersitsamogginhomd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/samogginho/&#34;&gt;Samogginho&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Prestazione eccellente, quasi al livello dei cannelloni del giovedì in mensa, scorazza e allaccia una fitta rete di passaggi e tiri filtranti.&lt;/p&gt;
-&lt;p&gt;Voto: &lt;code&gt;Riso con il ragù&lt;/code&gt;&lt;/p&gt;
-&lt;h3 id=&#34;borelli-jrplayersitborellimd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/borelli/&#34;&gt;Borelli Jr&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Se la gioca, se la suona e se la canta, tira e segna da ogni parte del campo, triangola e alle volte rettangola ma dà l’impressione di non aver mostrato ancora tutto, vedremo in futuro.&lt;/p&gt;
-&lt;p&gt;Voto: &lt;code&gt;La maglietta di Ronaldo era finita&lt;/code&gt;&lt;/p&gt;
-&lt;h3 id=&#34;matteo&#34;&gt;Matteo&lt;/h3&gt;
-&lt;p&gt;Prestazione altalenante, qualche imprecisione di troppo e qualche buono spunto, però letteralmente non l’ho mai sentito parlare, neanche una bestemmia, o un’imprecazione, ma poi nemmeno un intervento scomposto, dai, troppo preciso, mi hai fatto passare per un animale!&lt;/p&gt;
-&lt;p&gt;Voto: &lt;code&gt;Chierichetto&lt;/code&gt;&lt;/p&gt;
-&lt;h3 id=&#34;lorenzoplayersitzeffiromd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/zeffiro/&#34;&gt;Lorenzo&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Che dire che non sappiamo già? Prestazione solida e concreta come al solito, tecnicamente ineccepibile, prenota il campo, raccoglie i soldi, gestisce i suoi compagni come un maestro d’orchestra.&lt;/p&gt;
-&lt;p&gt;Voto: &lt;code&gt;Beppe Vessicchio&lt;/code&gt;&lt;/p&gt;
-&lt;h3 id=&#34;stefanoplayersitcolettamd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/coletta/&#34;&gt;Stefano&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Ha trovato le scarpe giuste e si vede, terrore dei calci d’angolo si infila in area di rigore involandosi in picchiata come l’animale simbolo degli USA e no, non sto parlando dell’americano medio al free refill del Burger King ma dell&amp;rsquo;aquila reale.&lt;/p&gt;
-&lt;p&gt;Voto: &lt;code&gt;Ariete ascendente Inzaghi&lt;/code&gt;&lt;/p&gt;
-&lt;h3 id=&#34;nicolaplayersitazzalinmd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/azzalin/&#34;&gt;Nicola&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Preciso e chirurgico come sempre, la palla si muove come telecomandata, peccato per l’infortunio che lo costringe in porta altrimenti staremmo probabilmente parlando di un’altra partita, &lt;em&gt;Inter - Cagliari&lt;/em&gt; o &lt;em&gt;Chievo - Livorno&lt;/em&gt;, decidete voi.&lt;/p&gt;
-&lt;p&gt;Voto: &lt;code&gt;No Maria io entro in porta, fa male&lt;/code&gt;&lt;/p&gt;
-&lt;h3 id=&#34;giorgioplayersitcadoromd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/cadoro/&#34;&gt;Giorgio&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Buona la prima! É sempre presente, in ogni punto del campo, sia in difesa che in attacco, prestazione fisica ma senza mai esagerare, ci mette corsa, anima e impegno.&lt;/p&gt;
-&lt;p&gt;Voto: &lt;code&gt;Prezzemolo&lt;/code&gt;&lt;/p&gt;
-&lt;h3 id=&#34;alviseplayersitzingalesmd&#34;&gt;&lt;a href=&#34;//localhost:1313/players/it/zingales/&#34;&gt;Alvise&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Ma che altro vi posso dire che già non sappiate…&lt;/p&gt;
-&lt;p&gt;È la mascotte di Finmatica, tutti gli vogliamo bene nonostante le battute di quarto livello e gli perdoniamo persino l’essere terrone, ma porca puttana se vinci un altro rimpallo ti sego le gambe ❤️&lt;/p&gt;
-&lt;p&gt;Voto: &lt;code&gt;Magneti Marelli&lt;/code&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Per polemiche e correzioni sul resoconto ed i voti, scrivete a &lt;a href=&#34;mailto:d.gualtieri@ads.it&#34;&gt;d.gualtieri@ads.it&lt;/a&gt; &amp;gt; &lt;em&gt;&lt;code&gt;No scherzo, non fatelo&lt;/code&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+      <guid>http://localhost:1313/finsoccerz-static/posts/it/2024/</guid>
+      <description>&lt;h1 id=&#34;2024&#34;&gt;2024&lt;/h1&gt;
+&lt;h2 id=&#34;dicembre&#34;&gt;Dicembre&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/posts/it/2024/december/diciassette&#34;&gt;## 17 dicembre 2024&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content>&lt;h1 id=&#34;2024&#34;&gt;2024&lt;/h1&gt;
+&lt;h2 id=&#34;dicembre&#34;&gt;Dicembre&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/posts/it/2024/december/diciassette&#34;&gt;## 17 dicembre 2024&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/finsoccerz-static/posts/it/2025/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/finsoccerz-static/posts/it/2025/</guid>
+      <description>&lt;h1 id=&#34;2025&#34;&gt;2025&lt;/h1&gt;
+&lt;h2 id=&#34;febbraio&#34;&gt;Febbraio&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/posts/it/2025/dicembre/diciassette&#34;&gt;## 17 dicembre 2024&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content>&lt;h1 id=&#34;2025&#34;&gt;2025&lt;/h1&gt;
+&lt;h2 id=&#34;febbraio&#34;&gt;Febbraio&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/posts/it/2025/dicembre/diciassette&#34;&gt;## 17 dicembre 2024&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </content>
     </item>
     

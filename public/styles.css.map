@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "C:/Users/ieeah/dev/Projects/finsoccerz",
+	"sourceRoot": "C:/Users/ieeah/dev/Projects/finsoccerz-static",
 	"sources": [
 		"css/base.scss",
 		"themes/re-terminal/assets/css/variables.scss",

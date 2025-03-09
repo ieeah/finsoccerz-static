@@ -2,55 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/players/it/azzalin/</loc>
+    <loc>http://localhost:1313/finsoccerz-static/players/it/ciccio/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/finsoccerz-static/</loc>
+    <lastmod>2024-12-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/finsoccerz-static/players/it/azzalin/</loc>
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/players/it/borelli/</loc>
+    <loc>http://localhost:1313/finsoccerz-static/players/it/borelli/</loc>
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/players/it/cadoro/</loc>
+    <loc>http://localhost:1313/finsoccerz-static/players/it/cadoro/</loc>
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/players/it/cesko/</loc>
+    <loc>http://localhost:1313/finsoccerz-static/players/it/cesko/</loc>
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/players/it/coletta/</loc>
+    <loc>http://localhost:1313/finsoccerz-static/players/it/coletta/</loc>
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/finsoccerz-static/players/it/issimo/</loc>
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/players/it/issimo/</loc>
+    <loc>http://localhost:1313/finsoccerz-static/players/it/portier/</loc>
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/players/it/portier/</loc>
+    <loc>http://localhost:1313/finsoccerz-static/players/it/samogginho/</loc>
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/players/it/samogginho/</loc>
+    <loc>http://localhost:1313/finsoccerz-static/players/it/zeffiro/</loc>
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/players/it/zeffiro/</loc>
+    <loc>http://localhost:1313/finsoccerz-static/players/it/zingales/</loc>
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/players/it/zingales/</loc>
-    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/finsoccerz-static/months/dec_24/</loc>
   </url><url>
-    <loc>//localhost:1313/posts/it/dec_24/17/</loc>
-    <lastmod>2024-12-17T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/finsoccerz-static/players/</loc>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2024-12-17T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/finsoccerz-static/posts/it/2024/</loc>
   </url><url>
-    <loc>//localhost:1313/matches/</loc>
+    <loc>http://localhost:1313/finsoccerz-static/posts/it/2025/</loc>
   </url><url>
-    <loc>//localhost:1313/months/dec_24/</loc>
+    <loc>http://localhost:1313/finsoccerz-static/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/players/</loc>
+    <loc>http://localhost:1313/finsoccerz-static/months/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/finsoccerz-static/posts/</loc>
   </url><url>
-    <loc>//localhost:1313/months/</loc>
-  </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/finsoccerz-static/tags/</loc>
   </url>
 </urlset>
