@@ -8,7 +8,7 @@ hideComments= true
 
 <div class="player-header" style="display: flex;">
   <div class="player-avatar" style="margin-inline-end: 40px;">
-    <img src="https://robohash.org/cadoro" width="200px" height="200px" style="border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent)" />
+    <img src="https://robohash.org/cadoro" width="200px" height="200px" style="border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent); object-fit: contain; object-position: center;" />
   </div>
   <div class="player-info">
     <p class="player-name" style="margin-block: 0; font-size: 2.5rem; font-weight: bold; display: inline-block;" id="player-name">Giorgio,</p>
@@ -22,7 +22,7 @@ hideComments= true
       </p>
       <p class="player-office" style="margin-block: 0;">
         <span style="font-weight: bold">Piatto preferito:</span>
-        <span style="">Probabilmente l'amatriciana</span>
+        <span style="">Il gelato prezzemolo</span>
       </p>
     </div>
   </div>
@@ -30,13 +30,14 @@ hideComments= true
 
 ## Statistiche
 
-| Statistica | Punteggio |
-| :---: | :---: |
-| Controllo palla | 5 |
-| Fiato | 7.5 |
-| Bava alla bocca | 8.5 |
-| Segno zodiacale | 2.5 |
-| Presenze | 2 |
+|          Statistica           | Punteggio |
+|:-----------------------------:|:---------:|
+|        Controllo palla        |     5     |
+|             Fiato             |    7.5    |
+|        Bava alla bocca        |    8.5    |
+|        Segno zodiacale        |    2.5    |
+| Elettrodi nei posti sbagliati |    8.5    |
+|           Presenze            |     2     |
 
 ---
 

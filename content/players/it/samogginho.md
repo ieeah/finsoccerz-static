@@ -8,7 +8,7 @@ hideComments= true
 
 <div class="player-header" style="display: flex;">
   <div class="player-avatar" style="margin-inline-end: 40px;">
-    <img src="https://robohash.org/samogginho" width="200px" height="200px" style="border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent)" />
+    <img src="https://robohash.org/samogginho" width="200px" height="200px" style="border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent); object-fit: contain; object-position: center;" />
   </div>
   <div class="player-info">
     <p class="player-name" style="margin-block: 0; font-size: 2.5rem; font-weight: bold; display: inline-block;" id="player-name">Simone Samogginho,</p>
@@ -30,13 +30,14 @@ hideComments= true
 
 ## Statistiche
 
-| Statistica | Punteggio |
-| :---: | :---: |
-| Samba | 9 |
-| Ciuffo biondo | 7.5 |
-| Caviglie | 5.5 |
-| Cicchetti alla frutta | 8.5 |
-| Presenze | 2 |
+|      Statistica       | Punteggio |
+|:---------------------:|:---------:|
+|         Samba         |     9     |
+|     Ciuffo biondo     |    7.5    |
+|       Caviglie        |    5.5    |
+| Cicchetti alla frutta |    8.5    |
+|    Tunnel di tacco    |     1     |
+|       Presenze        |     2     |
 
 ---
 

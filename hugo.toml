@@ -35,7 +35,7 @@ defaultContentLanguage = "it"
     
     [languages.it.params.logo]
       logoText = "Home"
-      logoHomeLink = "https://ieeah.github.io/finsoccerz-static/"
+      logoHomeLink = "/finsoccerz-static/"
 
     [languages.it.menu]
       [[languages.it.menu.main]]
@@ -45,9 +45,13 @@ defaultContentLanguage = "it"
       [[languages.it.menu.main]]
         identifier = "matches"
         name = "Partite"
-        url = "/matches"
-      [[languages.it.menu.main]]
-        identifier = "dec_24"
-        name = "Dicembre 2024"
-        url = "/months/dec_24"
-        parent = "matches"
+        [[languages.it.menu.main]]
+          identifier = "2024"
+          name = "2024"
+          url = "/posts/it/2024"
+          parent = "matches"
+        [[languages.it.menu.main]]
+          identifier = "2025"
+          name = "2025"
+          url = "/posts/it/2025"
+          parent = "matches"

@@ -1,0 +1,124 @@
++++
+title= "05 Marzo 2025"
+date= "2025-03-05"
+author= "ieeah"
+hideComments= true
+# cover= "/imgs/test.jpg"
++++
+
+> Premessa: i voti ma anche le descrizioni sono praticamente scritte a caso e senza la speranza di rappresentare ciò che sia davvero successo in campo, praticamente i voti non sono altro che delle cagate scritte per fare il cretino 😁
+
+Diciamolo, ormai scendiamo in campo solo per le pagelle e non per giocare, per questo nonostante l'annuncio
+
+(che ha generato grande disappunto e che é stato ripreso dalle più importanti testate giornalistiche che parlano di calcio,
+tra cui, per citarne qualcuna: _**`"La Gazzetta dello Scarpone"`**_ e _**`"Il Pallone Sgonfiato"`**_ ), siamo oggi qui riuniti
+per parlare di quella che è stata una partita, interessante...
+
+
+### "Cinquina Vs Quartina"
+
+Prenotazione un po' improvvisa, nessuno ci credeva più, e invece il campo si è liberato, era uno di quelli decenti e
+sembrava che tutto stesse andando per il meglio...
+
+In realtà, una danza di presenze e assenze ha portato fino all'ultimo a una certa incertezza su chi sarebbe
+stato in campo, alla fine il buon [`Coletta`](/players/it/coletta) ci ha abbandonati, così come [`Cadoro aka Prezzemolo`](/players/it/cadoro)
+che ci delizia sempre con dettagli "elettrizzanti" sulla sua salute (nella prossima pagella anche il resoconto sulle sue visite mediche).
+
+Alla fine, si scende in campo in nove (ed ecco il nome delle squadre), e pertanto decidiamo di far giocare insieme i due assi del calcetto: [`Borelli`](/players/it/borelli) e [`Samogginho`](/players/it/samogginho)
+sapendo che avrebbero potuto sopportare e sostenere l'assenza di un quinto giocatore, e infatti "ci hanno fatto vedere i sorci verdi"...
+
+Purtroppo, nonostante un inizio scoppiettante e la partita molto equilibrata alla fine hanno dovuto cedere perdendo la partita, 
+ma solo per un crollo psico-fisico negli ultimi minuti, questo non gli ha impedito di regalarci qualche colpo da biliardo mica da ridere.
+
+
+Come al solito, ho una vaga idea del risultato finale, credo abbia vinto la squadra "Cinquina", con circa 2/3 goals di scarto, quindi poca roba date le condizioni.
+
+
+## Le pagelle (liberamente ispirate a storie vere)
+
+### [`Ciccio`](/players/it/ciccio.md)
+
+Prestazione da ricordare per lui che segna circa quattro goal e come da tradizione per i "triplettisti" (e a salire), si porta il pallone a casa,
+spero però quello del campo e non il mio, grazie.
+
+> PS: Ancora echeggiano nel pallone del "campo sei" le sue parole di sfida: "**tira tira!**" in segno di sfida, sfida brutalmente persa, contro [`Alvise`](/players/it/zingales.md)!!!
+
+Voto: `Cornuto e Mazziato`
+
+
+### [`Borelli Jr`](/players/it/borelli.md)
+
+Conosciamo già le doti tecniche e balistiche di questo puledro di razza, va molto vicino a sfondare e bucare la tensostruttura in un paio di occasioni.
+Sicuramente l'età (e non la netta supremazia tecnica) è dalla sua quando in più di un occasione fa saltare le caviglie in dribbling a [`Cesko`](/players/it/cesko.md)
+
+Voto: `Guarda mamma, come Putin!`
+
+
+### [`Andrea`](/players/it/andrea.md)
+
+Ottima seconda partita, purtroppo per lui ha beccato uno dei pochissimi momenti di lucidità di [`Cesko`](/players/it/cesko.md) che riesce a fargli tunnel a inizio partita,
+ma da quel momento in poi se lo mangia a colazione (come tutti in questa partita), lo chiude bene e non rischia mai più un tunnel, tenendo le gambe più 
+chiuse di suor Gelsomina della parrocchia della pietà di Prato.
+
+Voto: `Finalmente anche io ho una pagina tutta mia!`
+
+### [`Portier`](/players/it/portier.md)
+
+Sulla partita non diciamo niente perché finalmente per la prima volta, nonostante sia chiaramente fra i più ricchi del gruppo, si è degnato di pagare il campo.
+
+Voto: `Braccino corto`
+
+### [`Cesko`](/players/it/cesko.md)
+
+Da anni non si vedeva una prestazione così deludente di un giocatore di siffatta enorme e gigantesca qualità.
+Lo stesso reporter dell'ultima volta gli ha chiesto un'altra volta un parere sulla sua prestazione, ha risposto:
+
+
+> Neanche mia madre mi parlerebbe dopo una prestazione così...
+> PERÒ UAGLIU AGG FATT NU TUNNÉLL, TRE ASSÍST E PUR NU GGGOOLL, CAZZ SONG SEMPR O CCHIÙ MEGL!
+>
+> Ma si ma che c n foooooootttt!
+
+Per completezza di cronaca, vi riportiamo anche alcune voci che direbbero, che abbia subito un tunnel di tacco da [`Samogginho`](/players/it/samogginho.md)
+ma non esistono prove documentali per cui riteniamo queste voci pure illazioni e menzogne.
+
+Voto: `Le pagelle le faccio io e dico quello che voglio io`
+
+### [`Issimo`](/players/it/issimo)
+
+Non so più come decantare il nostro [`Issimo`](/players/it/issimo.md).
+Alcune voci di FinmaticaMercato dicono che ci sono alcuni
+tentativi di riportarlo in una squadra di alto livello, come l'U1P1, ma [`Alvise`](/players/it/zingales.md) continua ad opporsi.
+
+Voto: `Fotocamera con il suono dell'otturatore obbligatorio`
+
+### [`Alvise`](/players/it/zingales.md)
+
+Segnatevi la data, Alvise ha giocato bene, ha segnato molto e ha vinto pochi rimpalli, ce lo ricorderemo, soprattutto lui.
+> "Oggi il calcio è morto" cit.
+
+Voto: `Killer`
+
+### [`Samogginho`](/players/it/samogginho.md)
+
+"Costruiamo di tutto, dai ponteggi per i piccioni acrobati alle scale che sfidano la gravità.
+Ma la nostra vera passione? I tunnel! Li facciamo di ogni forma e dimensione: stretti come budelli per faine claustrofobiche,
+larghi come autostrade sotterranee per elefanti in monopattino, e persino a spirale per talpe che si credono ballerine.
+Se hai bisogno di un buco, noi lo scaviamo!"
+
+<small>Note dell'autore: chatgpt qui si è superato</small>
+
+Voto: `Webuild S.p.a.`
+
+### `Lorenzo`
+
+Tutti iniziamo da qualche parte e Lorenzo ha appena iniziato il suo percorso per diventare uno di noi, uno
+di quelli che si mettono in gioco per la gloria e non per il successo.
+
+Si preoccupava delle sue prestazioni, poi ha visto giocare [`Cesko`](/players/it/cesko.md) e si è subito tranquillizzato.
+Gli manca una presenza per avere la sua pagina personale, ma il percorso è iniziato e lo ha fatto con un'ottima prestazione.
+
+Bei movimenti, sempre nel posto giusto, difende bene e corre per tutto il campo, facendo esattamente quello che deve fare e segnando
+(però diciamolo, anche grazie a un fantastico assist) un bellissimo gol al volo di prima.
+
+Voto: `Il Basket al campetto è sempre utile`

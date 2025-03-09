@@ -6,11 +6,7 @@ hideComments= true
 # cover= "/imgs/test.jpg"
 +++
 
-[*<- Partite*](/matches)
-
 > Premessa: i voti ma anche le descrizioni sono praticamente scritte a caso e senza la speranza di rappresentare ciò che sia davvero successo in campo, praticamente i voti non sono altro che delle cagate scritte per fare il cretino 😁
-
-## Resoconto
 
 Quasi due mesi dall'ultima espressione di quello che possiamo sicuramente chiamare "il miglior calcio esistente", no, non parliamo del calcio ai testicoli che ho dato al Portier durante il riscaldamento a causa di uno scherzo leggermente sopra le righe (e sotto la cintura) ma della ormai famosa,
 

@@ -8,7 +8,7 @@ hideComments= true
 
 <div class="player-header" style="display: flex;">
   <div class="player-avatar" style="margin-inline-end: 40px;">
-    <img src="https://robohash.org/cesko" width="200px" height="200px" style="border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent)" />
+    <img src="https://robohash.org/cesko" width="200px" height="200px" style="border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent); object-fit: contain; object-position: center;" />
   </div>
   <div class="player-info">
     <p class="player-name" style="margin-block: 0; font-size: 2.5rem; font-weight: bold; display: inline-block;" id="player-name">Cesko,</p>
@@ -30,14 +30,14 @@ hideComments= true
 
 ## Statistiche
 
-| Statistica | Punteggio |
-| :---: | :---: |
-| Capelli | 7.5 |
-| Tiro Aggiro | 1.5 |
-| Kebab dal lurido | 8.5 |
-| Compilazione timesheets | 3.5 |
-| Igiene personale | 6.5 |
-| Presenze | 4 |
+|       Statistica        | Punteggio |
+|:-----------------------:|:---------:|
+|         Capelli         |    7.5    |
+|       Tiro Aggiro       |    1.5    |
+|    Kebab dal lurido     |    8.5    |
+| Compilazione timesheets |    3.5    |
+| Tunnel di tacco subiti  |     1     |
+|        Presenze         |     5     |
 
 ---
 

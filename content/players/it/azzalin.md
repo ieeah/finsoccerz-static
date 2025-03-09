@@ -8,7 +8,7 @@ hideComments= true
 
 <div class="player-header" style="display: flex;">
   <div class="player-avatar" style="margin-inline-end: 40px;">
-    <img src="https://robohash.org/azzalin" width="200px" height="200px" style="border-radius: 50%; aspect-ratio: 1; border: 15px solid #78E2A0" />
+    <img src="https://robohash.org/azzalin" width="200px" height="200px" style="border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent); object-fit: contain; object-position: center;" />
   </div>
   <div class="player-info">
     <p class="player-name" style="margin-block: 0; font-size: 2.5rem; font-weight: bold; display: inline-block;" id="player-name">Nicola,</p>
@@ -30,14 +30,14 @@ hideComments= true
 
 ## Statistiche
 
-| Stat | Punteggio |
-| :---: | :---: |
-| Pausa caffé | 6 |
-| Squadra preferita | 2.5 |
-| Passaggio filtrante | 6.5 |
-| Aperitivo | 9.5 |
-| Pausa pranzo | La schiscietta |
-| Presenze | 4 |
+|        Stat         |   Punteggio    |
+|:-------------------:|:--------------:|
+|     Pausa caffé     |       6        |
+|  Squadra preferita  |      2.5       |
+| Passaggio filtrante |      6.5       |
+|      Aperitivo      |      9.5       |
+|    Pausa pranzo     | La schiscietta |
+|      Presenze       |       4        |
 
 ---
 

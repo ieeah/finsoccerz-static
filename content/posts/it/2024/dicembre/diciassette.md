@@ -6,17 +6,13 @@ hideComments= true
 # cover= "/imgs/test.jpg"
 +++
 
-[*<- Partite*](/matches)
-
 > Premessa: i voti ma anche le descrizioni sono praticamente scritte a caso e senza la speranza di rappresentare ciò che sia davvero successo in campo, praticamente i voti non sono altro che delle cagate scritte per fare il cretino 😁
-
-## Resoconto
 
 Secondo tentativo di “1st floor” Vs “2nd floor” che stavolta ha tirato fuori una partita leggermente più bilanciata della prima.
 
 Risultato finale di: `qualcosa a qualcos'altro`
 
-con il “qualcosa” che vale la seconda vittoria del primo piano, diciamolo chiaramente, risultato ottenuto principalmente grazie alle ottime prestazioni di Samoggia Jr (detto [`Samogginho`](/players/it/samogginho.md)) e Borelli jr (detto [`Borelli Jr`](/players/it/borelli.md)… _ma é ad un passo dal guadagnarsi un nome tutto suo!_) che si abbeverano alla fontana della loro pregressa esperienza calcistica condivisa e prendono sulle spalle la squadra (`NDR: 1st floor`), altrimenti allo sbando con un [`Cesko`](/players/it/cesko.md) assolutamente lontano dai suoi standard (comunque bassi) ed un [`Portier`](/players/it/portier.md) che non Portiera.
+Con il “qualcosa” che vale la seconda vittoria del primo piano, diciamolo chiaramente, risultato ottenuto principalmente grazie alle ottime prestazioni di Samoggia Jr (detto [`Samogginho`](/players/it/samogginho.md)) e Borelli jr (detto [`Borelli Jr`](/players/it/borelli.md)… _ma é ad un passo dal guadagnarsi un nome tutto suo!_) che si abbeverano alla fontana della loro pregressa esperienza calcistica condivisa e prendono sulle spalle la squadra (`NDR: 1st floor`), altrimenti allo sbando con un [`Cesko`](/players/it/cesko.md) assolutamente lontano dai suoi standard (comunque bassi) ed un [`Portier`](/players/it/portier.md) che non Portiera.
 
 Nella squadra del secondo piano, ottima come sempre le prestazioni del duo [`Azzalin`](/players/it/azzalin.md) [`Zeffiro`](/players/it/zeffiro.md) (aka _Azzaferin_), almeno finché [`Nicola`](/players/it/azzalin.md) non si procura un leggero stiramento e si mette in porta, Portierando comunque molto di più del [`Portier`](/players/it/portier.md), che vabbé, già detto…
 

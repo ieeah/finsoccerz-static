@@ -8,7 +8,7 @@ hideComments= true
 
 <div class="player-header" style="display: flex;">
   <div class="player-avatar" style="margin-inline-end: 40px;">
-    <img src="https://robohash.org/ciccio" width="200px" height="200px" style="border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent)" />
+    <img src="https://robohash.org/ciccio" width="200px" height="200px" style="border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent); object-fit: contain; object-position: center;" />
   </div>
   <div class="player-info">
     <p class="player-name" style="margin-block: 0; font-size: 2.5rem; font-weight: bold; display: inline-block;" id="player-name">Ciccio,</p>
@@ -30,14 +30,14 @@ hideComments= true
 
 ## Statistiche
 
-| Statistica | Punteggio |
-| :---: | :---: |
-| Stop | 2.5 |
-| Sponda | 8.5 |
-| Piede destro | 6 |
-| Piede sinistro | N/C |
-| Taralli | 8.5 |
-| Presenze | 3 |
+|   Statistica   | Punteggio |
+|:--------------:|:---------:|
+|      Stop      |    2.5    |
+|     Sponda     |    8.5    |
+|  Piede destro  |     6     |
+| Piede sinistro |    N/C    |
+|    Taralli     |    8.5    |
+|    Presenze    |     4     |
 
 ---
 
