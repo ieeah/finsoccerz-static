@@ -2,4 +2,4 @@
 
 ## Dicembre
 
-- [## 17 dicembre 2024](/finsoccerz-static/posts/it/2024/dicembre/diciassette)
+- [## 17 dicembre 2024](/finsoccerz-static/posts/it/2024/12/17/)
