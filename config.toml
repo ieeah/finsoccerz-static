@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "/finsoccerz-static/"
 languageCode = "it-it"
 extended = true
 # Add it only if you keep the theme in the `themes` directory.
