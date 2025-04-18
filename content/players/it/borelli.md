@@ -37,7 +37,7 @@ hideComments= true
 |       Passaggi filtranti       |    7.5    |
 |          Pause caffé           |    5.5    |
 | Ore aspettando la compilazione |    2.5    |
-|            Presenze            |     3     |
+|            Presenze            |     4     |
 
 
 ---

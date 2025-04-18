@@ -37,7 +37,7 @@ hideComments= true
 |  Piede destro  |     6     |
 | Piede sinistro |    N/C    |
 |    Taralli     |    8.5    |
-|    Presenze    |     4     |
+|    Presenze    |     5     |
 
 ---
 

@@ -37,7 +37,7 @@ hideComments= true
 |    Kebab dal lurido     |    8.5    |
 | Compilazione timesheets |    3.5    |
 | Tunnel di tacco subiti  |     1     |
-|        Presenze         |     5     |
+|        Presenze         |     6     |
 
 ---
 
