@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Months on Finsoccerz</title>
-    <link>https://ieeah.github.io/finsoccerz-static/months/</link>
+    <link>http://localhost:1313/finsoccerz-static/months/</link>
     <description>Recent content in Months on Finsoccerz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it</language><atom:link href="https://ieeah.github.io/finsoccerz-static/months/index.xml" rel="self" type="application/rss+xml" />
+    <language>it</language><atom:link href="http://localhost:1313/finsoccerz-static/months/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://ieeah.github.io/finsoccerz-static/months/dec_24/</link>
+      <link>http://localhost:1313/finsoccerz-static/months/dec_24/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ieeah.github.io/finsoccerz-static/months/dec_24/</guid>
+      <guid>http://localhost:1313/finsoccerz-static/months/dec_24/</guid>
       <description>&lt;h1 id=&#34;dicembre-2024&#34;&gt;Dicembre 2024&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/posts/it/dec_24/17&#34;&gt;## 17 dicembre 2024&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/posts/it/dec_24/17&#34;&gt;## 17 dicembre 2024&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <content>&lt;h1 id=&#34;dicembre-2024&#34;&gt;Dicembre 2024&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/posts/it/dec_24/17&#34;&gt;## 17 dicembre 2024&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/posts/it/dec_24/17&#34;&gt;## 17 dicembre 2024&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
     </item>

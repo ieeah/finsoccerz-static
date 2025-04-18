@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Finsoccerz</title>
-    <link>https://ieeah.github.io/finsoccerz-static/</link>
+    <link>http://localhost:1313/finsoccerz-static/</link>
     <description>Recent content on Finsoccerz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ieeah.github.io/finsoccerz-static/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/finsoccerz-static/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Andrea</title>
-      <link>https://ieeah.github.io/finsoccerz-static/players/it/andrea/</link>
+      <link>http://localhost:1313/finsoccerz-static/players/it/andrea/</link>
       <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://ieeah.github.io/finsoccerz-static/players/it/andrea/</guid>
+      <guid>http://localhost:1313/finsoccerz-static/players/it/andrea/</guid>
       <description>&lt;div class=&#34;player-header&#34; style=&#34;display: flex;&#34;&gt;
   &lt;div class=&#34;player-avatar&#34; style=&#34;margin-inline-end: 40px;&#34;&gt;
     &lt;img src=&#34;https://robohash.org/andrea&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent); object-fit: contain; object-position: center;&#34; /&gt;
@@ -129,10 +129,10 @@
     
     <item>
       <title>Ciccio</title>
-      <link>https://ieeah.github.io/finsoccerz-static/players/it/ciccio/</link>
+      <link>http://localhost:1313/finsoccerz-static/players/it/ciccio/</link>
       <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://ieeah.github.io/finsoccerz-static/players/it/ciccio/</guid>
+      <guid>http://localhost:1313/finsoccerz-static/players/it/ciccio/</guid>
       <description>&lt;div class=&#34;player-header&#34; style=&#34;display: flex;&#34;&gt;
   &lt;div class=&#34;player-avatar&#34; style=&#34;margin-inline-end: 40px;&#34;&gt;
     &lt;img src=&#34;https://robohash.org/ciccio&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent); object-fit: contain; object-position: center;&#34; /&gt;
@@ -185,7 +185,7 @@
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;Presenze&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -244,7 +244,7 @@
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;Presenze&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -257,10 +257,10 @@
     
     <item>
       <title>Azzalin</title>
-      <link>https://ieeah.github.io/finsoccerz-static/players/it/azzalin/</link>
+      <link>http://localhost:1313/finsoccerz-static/players/it/azzalin/</link>
       <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://ieeah.github.io/finsoccerz-static/players/it/azzalin/</guid>
+      <guid>http://localhost:1313/finsoccerz-static/players/it/azzalin/</guid>
       <description>&lt;div class=&#34;player-header&#34; style=&#34;display: flex;&#34;&gt;
   &lt;div class=&#34;player-avatar&#34; style=&#34;margin-inline-end: 40px;&#34;&gt;
     &lt;img src=&#34;https://robohash.org/azzalin&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent); object-fit: contain; object-position: center;&#34; /&gt;
@@ -385,10 +385,10 @@
     
     <item>
       <title>Borelli</title>
-      <link>https://ieeah.github.io/finsoccerz-static/players/it/borelli/</link>
+      <link>http://localhost:1313/finsoccerz-static/players/it/borelli/</link>
       <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://ieeah.github.io/finsoccerz-static/players/it/borelli/</guid>
+      <guid>http://localhost:1313/finsoccerz-static/players/it/borelli/</guid>
       <description>&lt;div class=&#34;player-header&#34; style=&#34;display: flex;&#34;&gt;
   &lt;div class=&#34;player-avatar&#34; style=&#34;margin-inline-end: 40px;&#34;&gt;
     &lt;img src=&#34;https://robohash.org/borelli&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent); object-fit: contain; object-position: center;&#34; /&gt;
@@ -441,7 +441,7 @@
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;Presenze&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -500,7 +500,7 @@
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;Presenze&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -513,10 +513,10 @@
     
     <item>
       <title>Cadoro</title>
-      <link>https://ieeah.github.io/finsoccerz-static/players/it/cadoro/</link>
+      <link>http://localhost:1313/finsoccerz-static/players/it/cadoro/</link>
       <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://ieeah.github.io/finsoccerz-static/players/it/cadoro/</guid>
+      <guid>http://localhost:1313/finsoccerz-static/players/it/cadoro/</guid>
       <description>&lt;div class=&#34;player-header&#34; style=&#34;display: flex;&#34;&gt;
   &lt;div class=&#34;player-avatar&#34; style=&#34;margin-inline-end: 40px;&#34;&gt;
     &lt;img src=&#34;https://robohash.org/cadoro&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent); object-fit: contain; object-position: center;&#34; /&gt;
@@ -641,10 +641,10 @@
     
     <item>
       <title>Cesko</title>
-      <link>https://ieeah.github.io/finsoccerz-static/players/it/cesko/</link>
+      <link>http://localhost:1313/finsoccerz-static/players/it/cesko/</link>
       <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://ieeah.github.io/finsoccerz-static/players/it/cesko/</guid>
+      <guid>http://localhost:1313/finsoccerz-static/players/it/cesko/</guid>
       <description>&lt;div class=&#34;player-header&#34; style=&#34;display: flex;&#34;&gt;
   &lt;div class=&#34;player-avatar&#34; style=&#34;margin-inline-end: 40px;&#34;&gt;
     &lt;img src=&#34;https://robohash.org/cesko&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent); object-fit: contain; object-position: center;&#34; /&gt;
@@ -697,7 +697,7 @@
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;Presenze&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -756,7 +756,7 @@
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;Presenze&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -769,10 +769,10 @@
     
     <item>
       <title>Coletta</title>
-      <link>https://ieeah.github.io/finsoccerz-static/players/it/coletta/</link>
+      <link>http://localhost:1313/finsoccerz-static/players/it/coletta/</link>
       <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://ieeah.github.io/finsoccerz-static/players/it/coletta/</guid>
+      <guid>http://localhost:1313/finsoccerz-static/players/it/coletta/</guid>
       <description>&lt;div class=&#34;player-header&#34; style=&#34;display: flex;&#34;&gt;
   &lt;div class=&#34;player-avatar&#34; style=&#34;margin-inline-end: 40px;&#34;&gt;
     &lt;img src=&#34;https://robohash.org/coletta&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent); object-fit: contain; object-position: center;&#34; /&gt;
@@ -825,7 +825,7 @@
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;Presenze&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -884,7 +884,7 @@
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;Presenze&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -897,10 +897,10 @@
     
     <item>
       <title>Issimo</title>
-      <link>https://ieeah.github.io/finsoccerz-static/players/it/issimo/</link>
+      <link>http://localhost:1313/finsoccerz-static/players/it/issimo/</link>
       <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://ieeah.github.io/finsoccerz-static/players/it/issimo/</guid>
+      <guid>http://localhost:1313/finsoccerz-static/players/it/issimo/</guid>
       <description>&lt;div class=&#34;player-header&#34; style=&#34;display: flex;&#34;&gt;
   &lt;div class=&#34;player-avatar&#34; style=&#34;margin-inline-end: 40px;&#34;&gt;
     &lt;img src=&#34;https://robohash.org/issimo&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent); object-fit: contain; object-position: center;&#34; /&gt;
@@ -953,7 +953,7 @@
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;Presenze&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1012,7 +1012,7 @@
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;Presenze&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1025,10 +1025,10 @@
     
     <item>
       <title>Portier</title>
-      <link>https://ieeah.github.io/finsoccerz-static/players/it/portier/</link>
+      <link>http://localhost:1313/finsoccerz-static/players/it/portier/</link>
       <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://ieeah.github.io/finsoccerz-static/players/it/portier/</guid>
+      <guid>http://localhost:1313/finsoccerz-static/players/it/portier/</guid>
       <description>&lt;div class=&#34;player-header&#34; style=&#34;display: flex;&#34;&gt;
   &lt;div class=&#34;player-avatar&#34; style=&#34;margin-inline-end: 40px;&#34;&gt;
     &lt;img src=&#34;https://robohash.org/portier&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent); object-fit: contain; object-position: center;&#34; /&gt;
@@ -1081,7 +1081,7 @@
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;Presenze&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1140,7 +1140,7 @@
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;Presenze&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1153,10 +1153,10 @@
     
     <item>
       <title>Samogginho</title>
-      <link>https://ieeah.github.io/finsoccerz-static/players/it/samogginho/</link>
+      <link>http://localhost:1313/finsoccerz-static/players/it/samogginho/</link>
       <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://ieeah.github.io/finsoccerz-static/players/it/samogginho/</guid>
+      <guid>http://localhost:1313/finsoccerz-static/players/it/samogginho/</guid>
       <description>&lt;div class=&#34;player-header&#34; style=&#34;display: flex;&#34;&gt;
   &lt;div class=&#34;player-avatar&#34; style=&#34;margin-inline-end: 40px;&#34;&gt;
     &lt;img src=&#34;https://robohash.org/samogginho&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent); object-fit: contain; object-position: center;&#34; /&gt;
@@ -1209,7 +1209,7 @@
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;Presenze&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1268,7 +1268,7 @@
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;Presenze&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1281,10 +1281,10 @@
     
     <item>
       <title>Zeffiro</title>
-      <link>https://ieeah.github.io/finsoccerz-static/players/it/zeffiro/</link>
+      <link>http://localhost:1313/finsoccerz-static/players/it/zeffiro/</link>
       <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://ieeah.github.io/finsoccerz-static/players/it/zeffiro/</guid>
+      <guid>http://localhost:1313/finsoccerz-static/players/it/zeffiro/</guid>
       <description>&lt;div class=&#34;player-header&#34; style=&#34;display: flex;&#34;&gt;
   &lt;div class=&#34;player-avatar&#34; style=&#34;margin-inline-end: 40px;&#34;&gt;
     &lt;img src=&#34;https://robohash.org/zeffiro&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent); object-fit: contain; object-position: center;&#34; /&gt;
@@ -1402,10 +1402,10 @@
     
     <item>
       <title>Zingales</title>
-      <link>https://ieeah.github.io/finsoccerz-static/players/it/zingales/</link>
+      <link>http://localhost:1313/finsoccerz-static/players/it/zingales/</link>
       <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://ieeah.github.io/finsoccerz-static/players/it/zingales/</guid>
+      <guid>http://localhost:1313/finsoccerz-static/players/it/zingales/</guid>
       <description>&lt;div class=&#34;player-header&#34; style=&#34;display: flex;&#34;&gt;
   &lt;div class=&#34;player-avatar&#34; style=&#34;margin-inline-end: 40px;&#34;&gt;
     &lt;img src=&#34;https://robohash.org/zingales&#34; width=&#34;200px&#34; height=&#34;200px&#34; style=&#34;border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent); object-fit: contain; object-position: center;&#34; /&gt;
@@ -1454,7 +1454,7 @@
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;Presenze&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1509,7 +1509,7 @@
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;Presenze&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1522,67 +1522,67 @@
     
     <item>
       <title></title>
-      <link>https://ieeah.github.io/finsoccerz-static/months/dec_24/</link>
+      <link>http://localhost:1313/finsoccerz-static/months/dec_24/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ieeah.github.io/finsoccerz-static/months/dec_24/</guid>
+      <guid>http://localhost:1313/finsoccerz-static/months/dec_24/</guid>
       <description>&lt;h1 id=&#34;dicembre-2024&#34;&gt;Dicembre 2024&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/posts/it/dec_24/17&#34;&gt;## 17 dicembre 2024&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/posts/it/dec_24/17&#34;&gt;## 17 dicembre 2024&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <content>&lt;h1 id=&#34;dicembre-2024&#34;&gt;Dicembre 2024&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/posts/it/dec_24/17&#34;&gt;## 17 dicembre 2024&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/posts/it/dec_24/17&#34;&gt;## 17 dicembre 2024&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
     </item>
     
     <item>
       <title></title>
-      <link>https://ieeah.github.io/finsoccerz-static/players/</link>
+      <link>http://localhost:1313/finsoccerz-static/players/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ieeah.github.io/finsoccerz-static/players/</guid>
+      <guid>http://localhost:1313/finsoccerz-static/players/</guid>
       <description>&lt;h1 id=&#34;giocatori&#34;&gt;Giocatori&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Una lista non ordinata né tantomeno completa dei giocatori di Finmatica.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;h2 id=&#34;ceskoplayersitceskomd&#34;&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/finsoccerz-static/players/it/cesko/&#34;&gt;&lt;code&gt;Cesko&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;ceskoplayersitceskomd&#34;&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/finsoccerz-static/players/it/cesko/&#34;&gt;&lt;code&gt;Cesko&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h2 id=&#34;samogginhoplayersitsamogginhomd&#34;&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/finsoccerz-static/players/it/samogginho/&#34;&gt;&lt;code&gt;Samogginho&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;samogginhoplayersitsamogginhomd&#34;&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/finsoccerz-static/players/it/samogginho/&#34;&gt;&lt;code&gt;Samogginho&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h2 id=&#34;colettaplayersitcolettamd&#34;&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/finsoccerz-static/players/it/coletta/&#34;&gt;&lt;code&gt;Coletta&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;colettaplayersitcolettamd&#34;&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/finsoccerz-static/players/it/coletta/&#34;&gt;&lt;code&gt;Coletta&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h2 id=&#34;portierplayersitportiermd&#34;&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/finsoccerz-static/players/it/portier/&#34;&gt;&lt;code&gt;Portier&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;portierplayersitportiermd&#34;&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/finsoccerz-static/players/it/portier/&#34;&gt;&lt;code&gt;Portier&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h2 id=&#34;borelliplayersitborellimd&#34;&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/finsoccerz-static/players/it/borelli/&#34;&gt;&lt;code&gt;Borelli&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;borelliplayersitborellimd&#34;&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/finsoccerz-static/players/it/borelli/&#34;&gt;&lt;code&gt;Borelli&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h2 id=&#34;issimoplayersitissimomd&#34;&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/finsoccerz-static/players/it/issimo/&#34;&gt;&lt;code&gt;Issimo&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;issimoplayersitissimomd&#34;&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/finsoccerz-static/players/it/issimo/&#34;&gt;&lt;code&gt;Issimo&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h2 id=&#34;azzalinplayersitazzalinmd&#34;&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/finsoccerz-static/players/it/azzalin/&#34;&gt;&lt;code&gt;Azzalin&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;azzalinplayersitazzalinmd&#34;&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/finsoccerz-static/players/it/azzalin/&#34;&gt;&lt;code&gt;Azzalin&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h2 id=&#34;zeffiroplayersitzeffiromd&#34;&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/finsoccerz-static/players/it/zeffiro/&#34;&gt;&lt;code&gt;Zeffiro&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;zeffiroplayersitzeffiromd&#34;&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/finsoccerz-static/players/it/zeffiro/&#34;&gt;&lt;code&gt;Zeffiro&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h2 id=&#34;cadoroplayersitcadoromd&#34;&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/finsoccerz-static/players/it/cadoro/&#34;&gt;&lt;code&gt;Cadoro&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;cadoroplayersitcadoromd&#34;&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/finsoccerz-static/players/it/cadoro/&#34;&gt;&lt;code&gt;Cadoro&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h2 id=&#34;zingalesplayersitzingalesmd&#34;&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/finsoccerz-static/players/it/zingales/&#34;&gt;&lt;code&gt;Zingales&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;zingalesplayersitzingalesmd&#34;&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/finsoccerz-static/players/it/zingales/&#34;&gt;&lt;code&gt;Zingales&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h2 id=&#34;ciccioplayersitcicciomd&#34;&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/finsoccerz-static/players/it/ciccio/&#34;&gt;&lt;code&gt;Ciccio&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;ciccioplayersitcicciomd&#34;&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/finsoccerz-static/players/it/ciccio/&#34;&gt;&lt;code&gt;Ciccio&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h2 id=&#34;andreaplayersitandreamd&#34;&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/finsoccerz-static/players/it/andrea/&#34;&gt;&lt;code&gt;Andrea&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;andreaplayersitandreamd&#34;&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/finsoccerz-static/players/it/andrea/&#34;&gt;&lt;code&gt;Andrea&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;/li&gt;
 &lt;/ol&gt;</description>
       <content>&lt;h1 id=&#34;giocatori&#34;&gt;Giocatori&lt;/h1&gt;
@@ -1591,40 +1591,40 @@
 &lt;/blockquote&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;h2 id=&#34;ceskoplayersitceskomd&#34;&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/finsoccerz-static/players/it/cesko/&#34;&gt;&lt;code&gt;Cesko&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;ceskoplayersitceskomd&#34;&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/finsoccerz-static/players/it/cesko/&#34;&gt;&lt;code&gt;Cesko&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h2 id=&#34;samogginhoplayersitsamogginhomd&#34;&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/finsoccerz-static/players/it/samogginho/&#34;&gt;&lt;code&gt;Samogginho&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;samogginhoplayersitsamogginhomd&#34;&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/finsoccerz-static/players/it/samogginho/&#34;&gt;&lt;code&gt;Samogginho&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h2 id=&#34;colettaplayersitcolettamd&#34;&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/finsoccerz-static/players/it/coletta/&#34;&gt;&lt;code&gt;Coletta&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;colettaplayersitcolettamd&#34;&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/finsoccerz-static/players/it/coletta/&#34;&gt;&lt;code&gt;Coletta&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h2 id=&#34;portierplayersitportiermd&#34;&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/finsoccerz-static/players/it/portier/&#34;&gt;&lt;code&gt;Portier&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;portierplayersitportiermd&#34;&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/finsoccerz-static/players/it/portier/&#34;&gt;&lt;code&gt;Portier&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h2 id=&#34;borelliplayersitborellimd&#34;&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/finsoccerz-static/players/it/borelli/&#34;&gt;&lt;code&gt;Borelli&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;borelliplayersitborellimd&#34;&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/finsoccerz-static/players/it/borelli/&#34;&gt;&lt;code&gt;Borelli&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h2 id=&#34;issimoplayersitissimomd&#34;&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/finsoccerz-static/players/it/issimo/&#34;&gt;&lt;code&gt;Issimo&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;issimoplayersitissimomd&#34;&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/finsoccerz-static/players/it/issimo/&#34;&gt;&lt;code&gt;Issimo&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h2 id=&#34;azzalinplayersitazzalinmd&#34;&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/finsoccerz-static/players/it/azzalin/&#34;&gt;&lt;code&gt;Azzalin&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;azzalinplayersitazzalinmd&#34;&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/finsoccerz-static/players/it/azzalin/&#34;&gt;&lt;code&gt;Azzalin&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h2 id=&#34;zeffiroplayersitzeffiromd&#34;&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/finsoccerz-static/players/it/zeffiro/&#34;&gt;&lt;code&gt;Zeffiro&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;zeffiroplayersitzeffiromd&#34;&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/finsoccerz-static/players/it/zeffiro/&#34;&gt;&lt;code&gt;Zeffiro&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h2 id=&#34;cadoroplayersitcadoromd&#34;&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/finsoccerz-static/players/it/cadoro/&#34;&gt;&lt;code&gt;Cadoro&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;cadoroplayersitcadoromd&#34;&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/finsoccerz-static/players/it/cadoro/&#34;&gt;&lt;code&gt;Cadoro&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h2 id=&#34;zingalesplayersitzingalesmd&#34;&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/finsoccerz-static/players/it/zingales/&#34;&gt;&lt;code&gt;Zingales&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;zingalesplayersitzingalesmd&#34;&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/finsoccerz-static/players/it/zingales/&#34;&gt;&lt;code&gt;Zingales&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h2 id=&#34;ciccioplayersitcicciomd&#34;&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/finsoccerz-static/players/it/ciccio/&#34;&gt;&lt;code&gt;Ciccio&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;ciccioplayersitcicciomd&#34;&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/finsoccerz-static/players/it/ciccio/&#34;&gt;&lt;code&gt;Ciccio&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h2 id=&#34;andreaplayersitandreamd&#34;&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/finsoccerz-static/players/it/andrea/&#34;&gt;&lt;code&gt;Andrea&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;andreaplayersitandreamd&#34;&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/finsoccerz-static/players/it/andrea/&#34;&gt;&lt;code&gt;Andrea&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 </content>
@@ -1632,46 +1632,46 @@
     
     <item>
       <title></title>
-      <link>https://ieeah.github.io/finsoccerz-static/posts/it/2024/</link>
+      <link>http://localhost:1313/finsoccerz-static/posts/it/2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ieeah.github.io/finsoccerz-static/posts/it/2024/</guid>
+      <guid>http://localhost:1313/finsoccerz-static/posts/it/2024/</guid>
       <description>&lt;h1 id=&#34;2024&#34;&gt;2024&lt;/h1&gt;
 &lt;h2 id=&#34;dicembre&#34;&gt;Dicembre&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/finsoccerz-static/posts/it/2024/12/17/&#34;&gt;## 17 dicembre 2024&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/finsoccerz-static/posts/it/2024/12/17/&#34;&gt;## 17 dicembre 2024&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <content>&lt;h1 id=&#34;2024&#34;&gt;2024&lt;/h1&gt;
 &lt;h2 id=&#34;dicembre&#34;&gt;Dicembre&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/finsoccerz-static/posts/it/2024/12/17/&#34;&gt;## 17 dicembre 2024&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/finsoccerz-static/posts/it/2024/12/17/&#34;&gt;## 17 dicembre 2024&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
     </item>
     
     <item>
       <title></title>
-      <link>https://ieeah.github.io/finsoccerz-static/posts/it/2025/</link>
+      <link>http://localhost:1313/finsoccerz-static/posts/it/2025/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ieeah.github.io/finsoccerz-static/posts/it/2025/</guid>
+      <guid>http://localhost:1313/finsoccerz-static/posts/it/2025/</guid>
       <description>&lt;h1 id=&#34;2025&#34;&gt;2025&lt;/h1&gt;
 &lt;h2 id=&#34;febbraio&#34;&gt;Febbraio&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/finsoccerz-static/posts/it/2025/02/06/&#34;&gt;## 6 Febbraio 2025&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/finsoccerz-static/posts/it/2025/02/06/&#34;&gt;## 6 Febbraio 2025&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;marzo&#34;&gt;Marzo&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/finsoccerz-static/posts/it/2025/03/05/&#34;&gt;## 5 Marzo 2025&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/finsoccerz-static/posts/it/2025/03/05/&#34;&gt;## 5 Marzo 2025&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <content>&lt;h1 id=&#34;2025&#34;&gt;2025&lt;/h1&gt;
 &lt;h2 id=&#34;febbraio&#34;&gt;Febbraio&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/finsoccerz-static/posts/it/2025/02/06/&#34;&gt;## 6 Febbraio 2025&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/finsoccerz-static/posts/it/2025/02/06/&#34;&gt;## 6 Febbraio 2025&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;marzo&#34;&gt;Marzo&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ieeah.github.io/finsoccerz-static/finsoccerz-static/posts/it/2025/03/05/&#34;&gt;## 5 Marzo 2025&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/finsoccerz-static/finsoccerz-static/posts/it/2025/03/05/&#34;&gt;## 5 Marzo 2025&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
     </item>
