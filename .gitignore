@@ -17,5 +17,14 @@ hugo.linux
 
 # End of https://www.toptal.com/developers/gitignore/api/hugo
 
+### VitePress ###
+# Dependencies
+node_modules
+
+# Build output
+.vitepress/dist
+.vitepress/cache
+
+# IDE
 .idea
 .vscode
