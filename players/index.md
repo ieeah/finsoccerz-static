@@ -29,3 +29,5 @@ title: Giocatori
 11. ## [Ciccio](/players/it/ciccio)
 
 12. ## [Andrea](/players/it/andrea)
+
+13. ## [Lollo](/players/it/lollo)

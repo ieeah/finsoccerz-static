@@ -7,7 +7,7 @@ export default {
     logo: '/logo.svg',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Giocatori', link: '/players/' },
+      { text: 'Giocatori', link: '/players/it/' },
       { 
         text: 'Partite', 
         items: [
