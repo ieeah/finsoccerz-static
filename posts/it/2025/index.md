@@ -2,16 +2,16 @@
 
 ## Febbraio
 
-- [6 Febbraio 2025](/posts/it/2025/02/06)
+- [6 Febbraio](/posts/it/2025/02/06)
 
 ## Marzo
 
-- [5 Marzo 2025](/posts/it/2025/03/05)
+- [5 Marzo](/posts/it/2025/03/05)
 
 ## Aprile
 
-- [16 Aprile 2025](/posts/it/2025/04/16)
+- [16 Aprile](/posts/it/2025/04/16)
 
 ## Settembre
 
-- [16 Aprile 2025](/posts/it/2025/09/16)
+- [16 Aprile](/posts/it/2025/09/16)
