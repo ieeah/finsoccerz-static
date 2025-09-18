@@ -32,7 +32,8 @@ export default {
             { text: 'Cadoro', link: '/players/it/cadoro' },
             { text: 'Zingales', link: '/players/it/zingales' },
             { text: 'Ciccio', link: '/players/it/ciccio' },
-            { text: 'Andrea', link: '/players/it/andrea' }
+            { text: 'Andrea', link: '/players/it/andrea' },
+            { text: 'Lollo', link: '/players/it/lollo' }
           ]
         }
       ],
@@ -50,7 +51,8 @@ export default {
           items: [
             { text: 'Febbraio', link: '/posts/it/2025/02/' },
             { text: 'Marzo', link: '/posts/it/2025/03/' },
-            { text: 'Aprile', link: '/posts/it/2025/04/' }
+            { text: 'Aprile', link: '/posts/it/2025/04/' },
+            { text: 'Settembre', link: '/posts/it/2025/09/' }
           ]
         }
       ]
