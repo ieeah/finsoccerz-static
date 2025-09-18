@@ -29,3 +29,5 @@ title: Giocatori Italiani
 11. ## [Zeffiro](/players/it/zeffiro)
 
 12. ## [Zingales](/players/it/zingales)
+
+13. ## [Lollo](/players/it/lollo)

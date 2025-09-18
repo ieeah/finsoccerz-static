@@ -35,7 +35,7 @@ author: ieeah
 |       Passaggi filtranti       |    7.5    |
 |          Pause caffé           |    5.5    |
 | Ore aspettando la compilazione |    2.5    |
-|            Presenze            |     4     |
+|            Presenze            |     5     |
 
 ---
 
