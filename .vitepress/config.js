@@ -33,7 +33,9 @@ export default {
             { text: 'Zingales', link: '/players/it/zingales' },
             { text: 'Ciccio', link: '/players/it/ciccio' },
             { text: 'Andrea', link: '/players/it/andrea' },
-            { text: 'Lollo', link: '/players/it/lollo' }
+            { text: 'Lollo', link: '/players/it/lollo' },
+            { text: 'Silvestri', link: '/players/it/silvestri' },
+            { text: 'Alex', link: '/players/it/tanke' }
           ]
         }
       ],
