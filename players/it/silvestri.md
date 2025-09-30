@@ -6,7 +6,7 @@ author: ieeah
 
 <div class="player-header" style="display: flex;">
   <div class="player-avatar" style="margin-inline-end: 40px;">
-    <img src="https://robohash.org/tanke" width="200px" height="200px" style="border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent); object-fit: contain; object-position: center;" />
+    <img src="https://robohash.org/silvestri" width="200px" height="200px" style="border-radius: 50%; aspect-ratio: 1; border: 15px solid #var(--accent); object-fit: contain; object-position: center;" />
   </div>
   <div class="player-info">
     <p class="player-name" style="margin-block: 0; font-size: 2.5rem; font-weight: bold; display: inline-block;" id="player-name">Silvestri,</p>
