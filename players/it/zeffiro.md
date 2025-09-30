@@ -34,7 +34,7 @@ author: ieeah
 |        Parastinchi         |    7.5    |
 |            Tiro            |    8.5    |
 |     Scarpe riflettenti     |    10+    |
-|          Presenze          |     4     |
+|          Presenze          |     5     |
 
 ---
 

@@ -35,7 +35,7 @@ author: ieeah
 |   Evasione Fiscale   |    9.5    |
 |    Ore di lavoro     |     1     |
 | Conoscenza su Batman |    8.5    |
-|       Presenze       |     5     |
+|       Presenze       |     6     |
 
 ---
 

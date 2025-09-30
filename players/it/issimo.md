@@ -35,7 +35,7 @@ author: ieeah
 |   Cuoppo fritto   |       4.5       |
 | Rapidità a pranzo |       2.5       |
 |   All' anagrafe   | Mattia Marcanti |
-|     Presenze      |        7        |
+|     Presenze      |        8        |
 
 ---
 

@@ -35,7 +35,7 @@ author: ieeah
 |    Kebab dal lurido     |    8.5    |
 | Compilazione timesheets |    3.5    |
 | Tunnel di tacco subiti  |     1     |
-|        Presenze         |     7     |
+|        Presenze         |     8     |
 
 ---
 
