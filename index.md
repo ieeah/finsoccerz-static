@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Finsoccerz
+title: Smart*Soccerz
 hero:
-  name: Finsoccerz
+  name: Smart*Soccerz
   text: Un sito per il calcetto di Finmatica
   tagline: Partite, giocatori e statistiche
   actions:
@@ -24,6 +24,6 @@ features:
     link: /posts/it/2025/
 ---
 
-# Benvenuti su Finsoccerz
+# Benvenuti su Smart*Soccerz
 
 Questo è il sito dedicato alle partite di calcetto di Finmatica.

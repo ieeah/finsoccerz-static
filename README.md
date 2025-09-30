@@ -1,6 +1,6 @@
-# Finsoccerz VitePress Site
+# Smart*Soccerz VitePress Site
 
-This is the VitePress version of the Finsoccerz site. It's designed to run in parallel with the Hugo version until the migration is complete.
+This is the VitePress version of the Smart*Soccerz site. It's designed to run in parallel with the Hugo version until the migration is complete.
 
 ## Development
 

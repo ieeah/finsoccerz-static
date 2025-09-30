@@ -1,5 +1,5 @@
 export default {
-  title: 'Finsoccerz',
+  title: 'Smart*Soccerz',
   description: 'Un sottotitolo in italiano',
   base: '/finsoccerz-static/',
   lang: 'it-IT',
@@ -61,7 +61,7 @@ export default {
       { icon: 'github', link: 'https://github.com/ieeah' }
     ],
     footer: {
-      message: 'Finsoccerz - Un sito per il calcetto di Finmatica',
+      message: 'Smart*Soccerz - Un sito per il calcetto di Finmatica',
       copyright: 'Copyright © 2024-present'
     }
   }
