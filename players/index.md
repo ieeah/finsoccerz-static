@@ -31,3 +31,7 @@ title: Giocatori
 12. ## [Andrea](/players/it/andrea)
 
 13. ## [Lollo](/players/it/lollo)
+
+14. ## [Silvestri](/players/it/silvestri)
+
+15. ## [Alex](/players/it/tanke)
